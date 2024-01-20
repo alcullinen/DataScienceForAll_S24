@@ -1,5 +1,5 @@
 # DataScienceForAll
-Materials for CS118/MATH118 SBCC Fall 2023:
+Materials for CS118/MATH118 SBCC Spring 2024:
 This repo contains the publicly available materials that are used in the Data Science for All course (CS/MATH 118).
 This includes: homeworks, labs, and notebooks used in lecture.
 
