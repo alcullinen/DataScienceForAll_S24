@@ -1,0 +1,1691 @@
+DepartmentOrSubdivision,Position,MinPositionSalary,MaxPositionSalary,TotalWages,DefinedBenefitPlanContribution,HealthDentalVision,TotalRetirementAndHealthContribution
+Administrative Services,Administrative Specialist,47118,57271,100,0,0,0
+Administrative Services,Applications Administrator,87406,106243,112270,8500,15474,23974
+Administrative Services,Applications Analyst,79468,96593,109961,7729,15427,23156
+Administrative Services,Applications Analyst,79468,96593,107557,7429,601,8030
+Administrative Services,Clerical Assistant,29120,29120,468,0,0,6
+Administrative Services,Elections Advisor,218400,218400,1549,0,0,20
+Administrative Services,Geographic Info Systems Coordinator,97986,119102,122790,9297,12523,21820
+Administrative Services,Geographic Info Systems Tech,68835,83669,86259,6531,11720,18251
+Administrative Services,Human Resources Technician,64835,78808,17257,0,0,212
+Administrative Services,Information Technology Manager,126864,154205,161249,12013,18368,30381
+Administrative Services,Information Technology Supervisor,111030,134958,138811,13765,506,14271
+Administrative Services,Information Technology Supervisor,112684,136968,182054,10413,0,10413
+Administrative Services,Information Technology Tech I,54450,66184,31326,0,0,402
+Administrative Services,Information Technology Tech II,59269,72041,63103,6829,30,6859
+Administrative Services,Information Technology Tech II,59269,72041,75024,5623,12490,18113
+Administrative Services,Information Technology Tech II,59269,72041,72289,8426,12557,20983
+Administrative Services,Network Analyst,79468,96593,99583,7540,15036,22576
+Administrative Services,Network Analyst,79468,96593,70166,8205,9099,17304
+Administrative Services,System Administrator,87406,106243,108776,12310,15036,27346
+Administrative Services,Web Services Technician,68835,83669,79087,8653,0,8653
+Administrative Services,Webmaster,96050,116750,120364,9113,15036,24149
+Airport,Accounting Assistant,53642,65202,14538,369,1293,1662
+Airport,Accounting Assistant,53642,65202,39297,4614,4387,9001
+Airport,Accounting Coordinator,61989,75349,81019,8885,0,8885
+Airport,Administrative Assistant-Conf,62924,76484,78958,8561,12867,21428
+Airport,Administrative Specialist,47118,57271,53886,6242,12457,18699
+Airport,Administrative Specialist,47118,57271,5536,0,0,72
+Airport,Airport Business Dev Manager,116227,141274,165960,16902,0,16902
+Airport,Airport Business Dev Supervisor,86086,104639,110005,12815,16826,29641
+Airport,Airport Business Manager,106247,129144,117844,8580,0,8580
+Airport,Airport Director,159606,194002,220310,17582,12071,29653
+Airport,Airport Facilities Manager,112672,136954,153309,10813,9862,20675
+Airport,Airport Maintenance Coordinator,60462,73493,70578,5335,15036,20371
+Airport,Airport Maintenance Coordinator,60462,73493,22784,2569,4297,6866
+Airport,Airport Maintenance Supervisor,80451,97789,103763,7753,16826,24579
+Airport,Airport Maintenance Worker II,49527,60200,60437,6581,1120,7701
+Airport,Airport Maintenance Worker II,49527,60200,69210,4720,12633,17353
+Airport,Airport Operations Manager,116227,141274,147367,17109,20707,37816
+Airport,Airport Operations Specialist,54497,66242,87137,8359,13918,22277
+Airport,Airport Operations Specialist,54497,66242,76164,7951,0,7951
+Airport,Airport Operations Specialist,54497,66242,56052,5935,0,5935
+Airport,Airport Operations Specialist,54497,66242,23707,0,0,306
+Airport,Airport Operations Specialist,54497,66242,81232,4533,13077,17610
+Airport,Airport Operations Specialist,54497,66242,16272,1610,3650,5260
+Airport,Airport Operations Specialist,54497,66242,22406,2457,0,2457
+Airport,Airport Operations Specialist,54497,66242,17851,2070,2912,4982
+Airport,Airport Operations Supervisor,80451,97789,101171,11172,12240,23412
+Airport,Airport Operations Supervisor,80451,97789,68692,7629,8625,16254
+Airport,Airport Operations Technician,50764,61704,59342,6469,1033,7502
+Airport,Airport Patrol Officer,83304,101256,133672,6801,14825,21626
+Airport,Airport Patrol Officer,83304,101256,116866,9769,14941,24710
+Airport,Airport Patrol Officer,83304,101256,108799,7195,14941,22136
+Airport,Airport Patrol Officer II,91192,110844,125807,10420,10253,20673
+Airport,Airport Patrol Officer II,91192,110844,151985,7871,14911,22782
+Airport,Airport Patrol Officer II,91192,110844,137765,8031,14941,22972
+Airport,Airport Patrol Officer II,91192,110844,11873,132,546,678
+Airport,Airport Patrol Officer II,91192,110844,146814,12220,14882,27102
+Airport,Airport Patrol Supervisor,104871,127471,127978,8237,0,8237
+Airport,Airport Security Aide,38023,46216,43067,4893,13077,17970
+Airport,Airport Security Aide,38023,46216,47124,5263,15036,20299
+Airport,Airport Security Aide,38023,46216,13940,0,0,177
+Airport,Airport Security Aide,38023,46216,5189,0,0,57
+Airport,Airport Security Aide,38023,46216,14134,1304,0,1304
+Airport,Airport Security Aide,38023,46216,4526,0,0,57
+Airport,Airport Security Aide,38023,46216,12170,0,0,156
+Airport,Airport Security Aide,38023,46216,41197,4018,0,4018
+Airport,Airport Security Aide,38023,46216,5519,0,0,69
+Airport,Airport Security Aide,38023,46216,15633,0,0,201
+Airport,Airport Traffic Aide,29120,29120,1498,0,0,14
+Airport,Airport Traffic Aide,29120,29120,5073,0,0,56
+Airport,Airport Traffic Aide,29120,29120,5857,0,0,72
+Airport,Community Education Liaison,52320,63596,37359,2028,0,2028
+Airport,Custodial Supervisor,62230,75642,92579,6002,12455,18457
+Airport,Custodian,42011,51064,48506,5427,12156,17583
+Airport,Custodian,42011,51064,58454,6015,0,6015
+Airport,Custodian,42011,51064,44918,5115,12156,17271
+Airport,Custodian,42011,51064,583,0,0,0
+Airport,Custodian,42011,51064,2684,0,0,35
+Airport,Custodian,42011,51064,63264,4006,0,4006
+Airport,Custodian,42011,51064,57101,4206,14370,18576
+Airport,Custodian,42011,51064,41233,3065,11802,14867
+Airport,Custodian,42011,51064,6051,297,0,297
+Airport,Grounds Maintenance Worker II,49403,60050,54154,4591,15007,19598
+Airport,Grounds Maintenance Worker II,49403,60050,3395,0,0,39
+Airport,Marketing Coordinator,73445,89274,10198,253,540,793
+Airport,Marketing Coordinator,73445,89274,52195,0,0,675
+Airport,Painter,58575,71198,65258,7549,9862,17411
+Airport,Painter,58575,71198,73932,5595,15007,20602
+Airport,Property Management Specialist,67139,81608,81262,9464,13077,22541
+Airport,Senior Airport Maintenance Worker,54723,66516,69308,5218,12490,17708
+Airport,Senior Airport Maintenance Worker,54723,66516,63886,4767,15036,19803
+Airport,Senior Airport Maintenance Worker,54723,66516,66313,3875,0,3875
+Airport,Senior Airport Maintenance Worker,54723,66516,73719,5224,0,5224
+Airport,Senior Airport Maintenance Worker,54723,66516,1972,236,0,236
+Airport,Senior Airport Operations Spec,60745,73836,66891,7745,14941,22686
+Airport,Senior Airport Operations Spec,60745,73836,54373,5363,8888,14251
+Airport,Senior Airport Operations Spec,60745,73836,85163,5892,14533,20425
+Airport,Senior Airport Operations Spec,60745,73836,84148,5805,14941,20746
+Airport,Senior Airport Operations Spec,60745,73836,75069,7209,0,7209
+Airport,Senior Airport Operations Spec,60745,73836,13988,1656,1977,3633
+Airport,Senior Airport Security Aide,41824,50838,53133,5879,11938,17817
+Airport,Senior Custodian,44380,53944,9706,721,2327,3048
+Airport,Senior Engineering Technician,69041,83920,44259,3324,12482,15806
+City Administrator,Administrative Specialist Conf,47118,57271,15171,1661,4272,5933
+City Administrator,Administrators Office Supervisor,87890,106832,111015,7763,8528,16291
+City Administrator,Assistant City Administrator,187510,227921,243588,14219,17947,32166
+City Administrator,Assistant City Administrator,187510,227921,236889,17364,21380,38744
+City Administrator,City Administrator Clerk Treasurer,232723,282877,302528,22241,20156,46320
+City Administrator,City Clerk Services Manager,117979,143404,154423,11072,12758,23830
+City Administrator,City Tv Production Aide Lead,34986,34986,15804,0,0,202
+City Administrator,City Tv Production Aide Lead,34986,34986,546,0,0,1
+City Administrator,City Tv Production Aide Lead,34986,34986,7603,0,0,99
+City Administrator,City Tv Production Aide Lead,34986,34986,3127,0,0,41
+City Administrator,City Tv Production Intern,29120,29120,881,0,0,11
+City Administrator,City Tv Production Intern,29120,29120,234,0,0,3
+City Administrator,City Tv Production Intern,29120,29120,839,0,0,11
+City Administrator,City Tv Production Intern,29120,29120,1014,0,0,13
+City Administrator,City Tv Production Specialist,73127,88885,77359,9022,12490,21512
+City Administrator,City Tv Production Supervisor,89266,108503,138321,8580,0,8580
+City Administrator,Communication Specialist,59863,72763,47418,5250,0,5250
+City Administrator,Deputy City Clerk,57662,70088,60439,6987,13247,20234
+City Administrator,Deputy City Clerk,57662,70088,63239,7344,12867,20211
+City Administrator,Economic Development Manager,149891,182193,157008,10099,9427,19526
+City Administrator,Records Technician,49527,60200,30355,3277,0,3277
+City Administrator,Senior Asst To The City Admin,117162,142411,162480,11197,6359,17556
+City Administrator,Senior Asst To The City Admin,117162,142411,147960,11197,20879,32076
+City Attorney,Assistant Attorney IV,163243,198423,36317,0,0,472
+City Attorney,Assistant City Attorney II,127779,155317,178231,11868,0,11868
+City Attorney,Assistant City Attorney III,148403,180385,173535,13132,21383,34515
+City Attorney,Assistant City Attorney IV,163243,198423,227530,17571,0,17571
+City Attorney,Assistant City Attorney IV,163243,198423,206341,15601,21189,36790
+City Attorney,Assistant City Attorney IV,163243,198423,227530,15601,0,15601
+City Attorney,Assistant City Attorney IV,163243,198423,155526,16281,760,17041
+City Attorney,Assistant City Attorney IV,163243,198423,205841,15585,21562,37147
+City Attorney,Assistant City Attorney IV,163243,198423,145107,15344,14585,29929
+City Attorney,City Attorney,262817,262817,280624,20664,21228,41892
+City Attorney,City Attorney Investigator,76818,93372,102014,11430,14807,26237
+City Attorney,Legal Assistant II,62451,75911,76397,5784,11946,17730
+City Attorney,Legal Assistant II,62451,75911,80217,6074,12206,18280
+City Attorney,Legal Office Supervisor,73267,89057,95349,7195,16512,23707
+City Attorney,Litigation Paralegal,63710,77440,81833,6196,12867,19063
+City Attorney,Litigation Paralegal,63710,77440,67047,7807,13077,20884
+Community Development,Accounting Assistant,53642,65202,67465,5090,13077,18167
+Community Development,Administrative Analyst II,87890,106832,91449,10542,11989,22531
+Community Development,Administrative Assistant-Conf,62924,76484,73617,8561,14698,23259
+Community Development,Administrative Clerical Supervisor,66050,80284,101069,6349,0,6349
+Community Development,Administrative Specialist,47118,57271,52336,6104,12189,18293
+Community Development,Administrative Specialist,47118,57271,47384,5531,11946,17477
+Community Development,Administrative Specialist,47118,57271,29221,0,0,376
+Community Development,Administrative Specialist,47118,57271,34494,4053,8736,12789
+Community Development,Administrative Specialist,47118,57271,3800,0,0,49
+Community Development,Administrative Supervisor,72979,88706,77991,8619,15007,23626
+Community Development,Administrative Supervisor,72979,88706,43028,2468,5617,8085
+Community Development,Assistant Planner,71995,87510,80403,9375,10073,19448
+Community Development,Assistant Planner,71995,87510,80935,5873,1161,7034
+Community Development,Assistant Planner,71995,87510,78801,5696,1161,6857
+Community Development,Assistant Planner,71995,87510,69883,8157,11946,20103
+Community Development,Assistant Planner,71995,87510,11380,1360,1047,2407
+Community Development,Associate Planner,77975,94780,104322,7398,11688,19086
+Community Development,Associate Planner,77975,94780,97714,7398,10073,17471
+Community Development,Associate Planner,77975,94780,96350,7296,12189,19485
+Community Development,Associate Planner,77975,94780,31090,1963,4872,6835
+Community Development,Associate Planner,77975,94780,98830,10919,11946,22865
+Community Development,Associate Planner,77975,94780,49050,0,0,632
+Community Development,Associate Planner,77975,94780,86812,10128,13471,23599
+Community Development,Associate Planner,77975,94780,95046,7197,12247,19444
+Community Development,Building Inspection Pln Ck Sup,111833,135934,126180,8831,8804,17635
+Community Development,Building Inspection Pln Ck Sup,111833,135934,27996,1936,1743,3679
+Community Development,Building Inspection Pln Ck Sup,111833,135934,7440,559,1238,1797
+Community Development,Building Inspector,72783,88468,80218,8871,12220,21091
+Community Development,Building Inspector,72783,88468,85565,9969,15036,25005
+Community Development,Building Inspector,72783,88468,94715,6906,15036,21942
+Community Development,Building Inspector,72783,88468,91206,6906,13141,20047
+Community Development,Building Inspector,72783,88468,5104,0,0,66
+Community Development,Building Permit Technician,59619,72467,38570,4161,7840,12001
+Community Development,Building Permit Technician,59619,72467,61632,7116,12137,19253
+Community Development,Building Permit Technician,59619,72467,76305,8707,13077,21784
+Community Development,Building Permit Technician,59619,72467,52070,1752,1412,3164
+Community Development,Chief Building Official,125853,152976,159621,12028,20331,32359
+Community Development,City Planner,131085,159335,176551,12528,9862,22390
+Community Development,Commission Secretary,52188,63435,65399,4952,13077,18029
+Community Development,Commission Secretary,52188,63435,59556,6427,1473,7900
+Community Development,Community Development Bus Manager,106247,129144,22813,587,643,1230
+Community Development,Community Development Bus Manager,106247,129144,122541,12749,6448,19197
+Community Development,Community Development Director,168106,204335,182867,11417,13038,24455
+Community Development,Community Development Prg Spec,70573,85782,37528,4377,6254,10631
+Community Development,Geographic Info Systems Tech,68835,83669,86573,6531,15036,21567
+Community Development,Graphic Designer,73445,89274,92448,6940,13077,20017
+Community Development,Housing And Human Services Manager,113963,138523,134871,9554,12247,21801
+Community Development,Housing Programs Specialist,77975,94780,53143,3823,421,4244
+Community Development,Housing Programs Specialist,77975,94780,60312,2696,2987,5683
+Community Development,Housing Project Planner,83614,101634,63242,4801,9726,14527
+Community Development,Planning Technician I,59863,72763,58781,6858,13077,19935
+Community Development,Planning Technician I,59863,72763,21111,1918,3209,5127
+Community Development,Planning Technician I,59863,72763,2445,0,0,30
+Community Development,Planning Technician I,59863,72763,28586,3287,0,3287
+Community Development,Planning Technician I,59863,72763,1330,159,0,159
+Community Development,Planning Technician II,64835,78808,31985,0,0,411
+Community Development,Planning Technician II,64835,78808,45261,4779,2562,7341
+Community Development,Planning Technician II,64835,78808,62809,7329,12247,19576
+Community Development,Planning Technician II,64835,78808,14434,1725,1992,3717
+Community Development,Plans Examiner,84151,102286,105914,12290,12908,25198
+Community Development,Plans Examiner,84151,102286,107530,8106,15036,23142
+Community Development,Principal Planner,113963,138523,148315,10500,11306,21806
+Community Development,Project Planner,83614,101634,102540,11957,12886,24843
+Community Development,Project Planner,83614,101634,99382,11584,11946,23530
+Community Development,Project Planner,83614,101634,110099,7872,12247,20119
+Community Development,Project Planner,83614,101634,104781,7933,11946,19879
+Community Development,Project Planner,83614,101634,98788,7482,12523,20005
+Community Development,Project Planner,83614,101634,106993,8064,15007,23071
+Community Development,Project Planner,83614,101634,95105,6969,1006,7975
+Community Development,Project Planner,83614,101634,89023,6377,0,6377
+Community Development,Project Planner,83614,101634,34091,3974,7177,11151
+Community Development,Records Technician,49527,60200,52635,6134,13077,19211
+Community Development,Records Technician,49527,60200,10902,266,540,806
+Community Development,Rental Housing Mediation Spec,64192,78025,66387,7664,13077,20741
+Community Development,Senior Building Inspector Specialty,84529,102746,101480,11137,13875,25012
+Community Development,Senior Building Inspector Specialty,84529,102746,108626,8041,12867,20908
+Community Development,Senior Building Inspector Specialty,84529,102746,65193,4744,10798,15542
+Community Development,Senior Building Inspector Specialty,84529,102746,94685,10767,14867,25634
+Community Development,Senior Building Inspector Specialty,84529,102746,78117,9064,9427,18491
+Community Development,Senior Community Dev Programs Spec,77630,94360,99010,7496,13181,20677
+Community Development,Senior Plan Check Engineer,97246,118203,127917,9605,12553,22158
+Community Development,Senior Planner I,96157,116880,127516,9286,12651,21937
+Community Development,Senior Planner II,101074,122857,117578,8784,15254,24038
+Community Development,Senior Planner II,101074,122857,127071,9449,16826,26275
+Community Development,Senior Planner II,101074,122857,83085,5017,0,5017
+Community Development,Senior Plans Examiner,88014,106982,108554,8712,13268,21980
+Community Development,Senior Plans Examiner,88014,106982,136492,13804,12434,26238
+Community Development,Senior Rental Housing Med Spec,77630,94360,95899,7166,15007,22173
+Finance,Accountant II,68492,83253,86599,6466,15036,21502
+Finance,Accounting Assistant,53642,65202,63939,7374,12247,19621
+Finance,Accounting Assistant,53642,65202,63216,6939,801,7740
+Finance,Accounting Assistant,53642,65202,64712,5026,15007,20033
+Finance,Accounting Assistant,53642,65202,67233,7732,12507,20239
+Finance,Accounting Assistant,53642,65202,32656,3805,6254,10059
+Finance,Accounting Assistant,53642,65202,71270,7771,0,7771
+Finance,Accounting Assistant,53642,65202,65721,7134,0,7134
+Finance,Accounting Assistant,53642,65202,68513,5170,12189,17359
+Finance,Accounting Assistant,53642,65202,11858,298,0,298
+Finance,Accounting Assistant,53642,65202,30977,3531,9367,12898
+Finance,Accounting Assistant,53642,65202,42453,3436,5824,9260
+Finance,Accounting Coordinator,61989,75349,82936,5882,1161,7043
+Finance,Accounting Manager,112431,136660,148875,16810,16942,33752
+Finance,Accounting Supervisor,98612,119864,134136,8069,2447,10516
+Finance,Accounting Technician,56385,68536,73745,5484,15474,20958
+Finance,Administrative Assistant-Conf,62924,76484,64546,7524,15054,22578
+Finance,Administrative Specialist,47118,57271,59045,4471,12457,16928
+Finance,Administrative Specialist,47118,57271,10406,1071,2564,3635
+Finance,Administrative Specialist,47118,57271,10613,0,0,138
+Finance,Administrative Specialist,47118,57271,7137,0,0,92
+Finance,Billing Supervisor,76711,93243,87723,6255,16512,22767
+Finance,Budget Manager,109475,133067,136986,10365,20879,31244
+Finance,Buyer II,65759,79931,76738,8949,14917,23866
+Finance,Executive Assistant,54857,66679,7085,608,1555,2163
+Finance,Finance Analyst I,76818,93372,85947,10021,14995,25016
+Finance,Finance Analyst I,76818,93372,100883,7288,0,7288
+Finance,Finance Director,166442,202311,96738,3783,182,3965
+Finance,Finance Director,166442,202311,56974,3293,2696,5989
+Finance,Finance Supervisor,76711,93243,108559,7373,9862,17235
+Finance,Finance Treasury Manager,129421,157312,187002,12568,0,12568
+Finance,General Services Manager,112431,136660,143306,10745,19560,30305
+Finance,Mail Services Specialist,38023,46216,47697,3608,14606,18214
+Finance,Network Analyst,79468,96593,328,0,0,4
+Finance,Office Specialist II,42858,52093,6051,0,0,74
+Finance,Payroll Supervisor,76711,93243,115021,7396,0,7396
+Finance,Purchasing Supervisor,85472,103891,125337,8215,0,8215
+Finance,Risk Analyst II,87890,106832,112893,13157,14738,27895
+Finance,Risk Analyst II,87890,106832,107697,8141,13740,21881
+Finance,Risk Manager,110898,134797,148065,10598,12867,23465
+Finance,Risk Technician,64835,78808,79280,5922,15474,21396
+Finance,Senior Accountant,79151,96208,109329,7874,15255,23129
+Finance,Senior Accountant,79151,96208,69108,8079,9427,17506
+Finance,Senior Buyer,72335,87924,88707,6717,15036,21753
+Finance,Warehouse Specialist,48307,58718,69469,4604,0,4604
+Fire,Administrative Assistant-Conf,62924,76484,74021,5585,15427,21012
+Fire,Administrative Specialist,47118,57271,58968,4465,15036,19501
+Fire,Ems Nurse Educator,168064,168064,5010,0,0,65
+Fire,Fire Battalion Chief,137474,167102,297895,37639,16851,54490
+Fire,Fire Battalion Chief 40Hr,137474,167101,298205,38564,21176,59740
+Fire,Fire Battalion Chief 40Hr,137474,167101,281294,36640,21179,57819
+Fire,Fire Battalion Chief 40Hr,137474,167101,336645,38396,0,38396
+Fire,Fire Business Manager,106247,129144,144213,10382,15397,25779
+Fire,Fire Captain  40Hr,103792,126160,242482,33617,15418,49035
+Fire,Fire Captain  40Hr,103792,126160,68716,1075,706,1781
+Fire,Fire Captain 56Hr,103792,126160,180619,27780,12430,40210
+Fire,Fire Captain 56Hr,103792,126160,277646,32524,18283,50807
+Fire,Fire Captain 56Hr,103792,126160,270145,34673,15418,50091
+Fire,Fire Captain 56Hr,103792,126160,249925,31516,15418,46934
+Fire,Fire Captain 56Hr,103792,126160,144273,31514,15418,46932
+Fire,Fire Captain 56Hr,103792,126160,160183,31557,15215,46772
+Fire,Fire Captain 56Hr,103792,126160,207652,29870,0,29870
+Fire,Fire Captain 56Hr,103792,126160,228003,29067,12012,41079
+Fire,Fire Captain 56Hr,103792,126160,201113,31142,15418,46560
+Fire,Fire Captain 56Hr,103792,126160,178635,27618,18309,45927
+Fire,Fire Captain 56Hr,103792,126160,206035,32208,18283,50491
+Fire,Fire Captain 56Hr,103792,126160,161504,27685,12658,40343
+Fire,Fire Captain 56Hr,103792,126160,183335,33654,18309,51963
+Fire,Fire Captain 56Hr,103792,126160,115425,21913,0,21913
+Fire,Fire Captain 56Hr,103792,126160,151689,33470,18309,51779
+Fire,Fire Captain 56Hr,103792,126160,197029,33169,15418,48587
+Fire,Fire Captain 56Hr,103792,126160,253346,31516,15418,46934
+Fire,Fire Captain 56Hr,103792,126160,263952,33955,15418,49373
+Fire,Fire Captain 56Hr,103792,126160,142231,30173,15418,45591
+Fire,Fire Captain 56Hr,103792,126160,201451,29822,15418,45240
+Fire,Fire Captain 56Hr,103792,126160,253212,30445,18128,48573
+Fire,Fire Captain 56Hr,103792,126160,163711,31514,18128,49642
+Fire,Fire Captain 56Hr,103792,126160,231757,31880,18309,50189
+Fire,Fire Captain 56Hr,103792,126160,176302,30608,16083,46691
+Fire,Fire Captain 56Hr,103792,126160,288437,35292,12090,47382
+Fire,Fire Captain 56Hr,103792,126160,282071,36052,15418,51470
+Fire,Fire Captain 56Hr,103792,126160,172247,31514,18309,49823
+Fire,Fire Captain 56Hr,103792,126160,7561,1240,26,1266
+Fire,Fire Captain 56Hr,103792,126160,280933,32864,18128,50992
+Fire,Fire Captain 56Hr,103792,126160,203081,31516,18283,49799
+Fire,Fire Captain 56Hr,103792,126160,182284,31549,15418,46967
+Fire,Fire Captain 56Hr,103792,126160,244828,0,0,0
+Fire,Fire Engineer 56Hr,89815,109171,209389,15463,18309,33772
+Fire,Fire Engineer 56Hr,89815,109171,134790,28587,12136,40723
+Fire,Fire Engineer 56Hr,89815,109171,145359,27289,12129,39418
+Fire,Fire Engineer 56Hr,89815,109171,172105,27289,15444,42733
+Fire,Fire Engineer 56Hr,89815,109171,173929,27289,15311,42600
+Fire,Fire Engineer 56Hr,89815,109171,201073,29443,15444,44887
+Fire,Fire Engineer 56Hr,89815,109171,208461,28625,15444,44069
+Fire,Fire Engineer 56Hr,89815,109171,122204,26977,0,26977
+Fire,Fire Engineer 56Hr,89815,109171,183051,28393,15418,43811
+Fire,Fire Engineer 56Hr,89815,109171,129468,27327,18283,45610
+Fire,Fire Engineer 56Hr,89815,109171,185117,27315,15311,42626
+Fire,Fire Engineer 56Hr,89815,109171,131973,29157,650,29807
+Fire,Fire Engineer 56Hr,89815,109171,157773,27289,15418,42707
+Fire,Fire Engineer 56Hr,89815,109171,269228,27856,12757,40613
+Fire,Fire Engineer 56Hr,89815,109171,120590,27289,12129,39418
+Fire,Fire Engineer 56Hr,89815,109171,205081,28445,15418,43863
+Fire,Fire Engineer 56Hr,89815,109171,167420,25868,15418,41286
+Fire,Fire Engineer 56Hr,89815,109171,118062,24827,15418,40245
+Fire,Fire Engineer 56Hr,89815,109171,252304,25966,15418,41384
+Fire,Fire Engineer 56Hr,89815,109171,144350,27184,15418,42602
+Fire,Fire Engineer 56Hr,89815,109171,212870,27289,18309,45598
+Fire,Fire Engineer 56Hr,89815,109171,135750,27289,18179,45468
+Fire,Fire Engineer 56Hr,89815,109171,131614,25975,12012,37987
+Fire,Fire Engineer 56Hr,89815,109171,182903,25753,18201,43954
+Fire,Fire Engineer 56Hr,89815,109171,127144,16293,15418,31711
+Fire,Fire Engineer 56Hr,89815,109171,140986,26616,17659,44275
+Fire,Fire Engineer 56Hr,89815,109171,146228,16293,15311,31604
+Fire,Fire Engineer 56Hr,89815,109171,142356,28587,15418,44005
+Fire,Fire Inspector I,79286,96373,109629,13815,0,13815
+Fire,Fire Inspector I,79286,96373,115480,25085,18309,43394
+Fire,Fire Inspector II,89815,109171,184088,27898,18309,46207
+Fire,Fire Inspector III,103792,126160,141679,32197,15444,47641
+Fire,Fire Operations Division Chief,157556,191511,226848,0,19056,19056
+Fire,Fire Prevention Division Chief,137474,167101,182438,35809,21263,57072
+Fire,Fire Services Mutual Aide Spec I,77522,77522,39412,0,0,511
+Fire,Fire Services Mutual Aide Spec I,77522,77522,102,0,0,0
+Fire,Fire Services Mutual Aide Spec I,77522,77522,24492,0,0,317
+Fire,Fire Services Mutual Aide Spec I,77522,77522,1389,0,0,18
+Fire,Firefighter 56Hr,79287,96373,161330,14747,15444,30191
+Fire,Firefighter 56Hr,79287,96373,117460,14404,0,14404
+Fire,Firefighter 56Hr,79287,96373,161281,14383,18201,32584
+Fire,Firefighter 56Hr,79287,96373,151175,15027,650,15677
+Fire,Firefighter 56Hr,79287,96373,188138,14410,13004,27414
+Fire,Firefighter 56Hr,79287,96373,104616,12748,12757,25505
+Fire,Firefighter 56Hr,79287,96373,174005,12795,12790,25585
+Fire,Firefighter 56Hr,79287,96373,130579,12699,7988,20687
+Fire,Firefighter 56Hr,79287,96373,181689,12952,12757,25709
+Fire,Firefighter 56Hr,79287,96373,162759,12859,12012,24871
+Fire,Firefighter 56Hr,79287,96373,142239,12826,15418,28244
+Fire,Firefighter 56Hr,79287,96373,108938,24106,12430,36536
+Fire,Firefighter 56Hr,79287,96373,167548,24165,15418,39583
+Fire,Firefighter 56Hr,79287,96373,152129,24703,15444,40147
+Fire,Firefighter 56Hr,79287,96373,109801,24559,18309,42868
+Fire,Firefighter 56Hr,79287,96373,209745,26070,13015,39085
+Fire,Firefighter 56Hr,79287,96373,14213,1101,732,1833
+Fire,Firefighter 56Hr,79287,96373,196199,25071,18283,43354
+Fire,Firefighter 56Hr,79287,96373,70207,7368,6306,13674
+Fire,Firefighter 56Hr,79287,96373,80324,7413,0,7413
+Fire,Firefighter 56Hr,79287,96373,189640,15218,12967,28185
+Fire,Firefighter 56Hr,79287,96373,190487,24331,15418,39749
+Fire,Firefighter 56Hr,79287,96373,139648,15560,15444,31004
+Fire,Firefighter 56Hr,79287,96373,78761,7368,4028,11396
+Fire,Firefighter 56Hr,79287,96373,74840,7368,8309,15677
+Fire,Firefighter 56Hr,79287,96373,76668,7368,8309,15677
+Fire,Firefighter 56Hr,79287,96373,82138,7368,7695,15063
+Fire,Firefighter 56Hr,79287,96373,78802,7368,8309,15677
+Fire,Firefighter 56Hr,79287,96373,62071,7334,9739,17073
+Fire,Firefighter 56Hr,79287,96373,81117,10968,11649,22617
+Fire,Firefighter 56Hr,79287,96373,73878,7368,6306,13674
+Fire,Office Specialist II,42858,52093,49360,5757,12490,18247
+Fire,Stock Clerk,43721,53143,9851,196,0,196
+Human Resources,Administrative Analyst III,95191,115706,125210,14390,15474,29864
+Human Resources,Human Resources Analyst II,87890,106832,84829,9927,15474,25401
+Human Resources,Human Resources Analyst II,87890,106832,112893,8548,13077,21625
+Human Resources,Human Resources Analyst II,87890,106832,116261,8548,1161,9709
+Human Resources,Human Resources Assistant,58098,70618,75649,5728,12523,18251
+Human Resources,Human Resources Assistant,58098,70618,69629,4927,3,4930
+Human Resources,Human Resources Assistant,58098,70618,77020,8899,15474,24373
+Human Resources,Human Resources Director,159606,194002,150602,17232,20950,38182
+Human Resources,Office Specialist I,38983,47383,5360,0,0,69
+Human Resources,Senior Human Resources Analyst,95191,115706,130357,9437,15474,24911
+Library,Administrative Specialist,47118,57271,39471,3933,1999,5932
+Library,Librarian I,59637,72490,67817,7911,11720,19631
+Library,Librarian I,59637,72490,68671,8006,12021,20027
+Library,Librarian I,59637,72490,66799,7788,11856,19644
+Library,Librarian I,59637,72490,68453,7981,8804,16785
+Library,Librarian II,65565,79695,58877,6580,8613,15193
+Library,Librarian II,65565,79695,69108,8059,12891,20950
+Library,Librarian II,65565,79695,65608,7658,12695,20353
+Library,Librarian II,65565,79695,82949,5405,73,5478
+Library,Librarian II,65565,79695,82162,6221,15036,21257
+Library,Librarian II,65565,79695,70750,8253,11946,20199
+Library,Library Assistant I,44698,54330,4382,0,0,49
+Library,Library Assistant I,44698,54330,5637,261,601,862
+Library,Library Circulation Supervisor,62440,75896,75717,8390,12849,21239
+Library,Library Director,160879,195550,231998,15375,0,15375
+Library,Library Services Manager,103114,125337,118840,12915,19485,32400
+Library,Library Services Manager,103114,125337,105457,7871,16730,24601
+Library,Library Technician,49633,60329,14674,0,0,175
+Library,Library Technician,49633,60329,8846,0,0,101
+Library,Library Technician,49633,60329,14160,0,0,168
+Library,Library Technician,49633,60329,4874,0,0,60
+Library,Library Technician,49633,60329,58627,6827,13077,19904
+Library,Library Technician,49633,60329,8258,0,0,97
+Library,Library Technician,49633,60329,4583,0,0,58
+Library,Library Technician,49633,60329,5591,0,0,71
+Library,Library Technician,49633,60329,4964,0,0,62
+Library,Library Technician,49633,60329,5108,0,0,61
+Library,Library Technician,49633,60329,52926,6175,12490,18665
+Library,Library Technician,49633,60329,3994,0,0,50
+Library,Library Technician,49633,60329,14043,0,0,169
+Library,Library Technician,49633,60329,57740,4372,12490,16862
+Library,Library Technician,49633,60329,54525,6357,12490,18847
+Library,Library Technician,49633,60329,65606,4709,1120,5829
+Library,Library Technician,49633,60329,6236,0,0,72
+Library,Library Technician,49633,60329,7914,0,0,95
+Library,Library Technician,49633,60329,62196,4709,15036,19745
+Library,Library Technician,49633,60329,5864,0,0,70
+Library,Library Technician,49633,60329,12711,0,0,155
+Library,Library Technician,49633,60329,3201,0,0,42
+Library,Library Technician,49633,60329,7272,0,0,91
+Library,Library Technician,49633,60329,4476,0,0,58
+Library,Library Technician,49633,60329,4108,0,0,53
+Library,Library Technician,49633,60329,4186,0,0,54
+Library,Library Technician,49633,60329,8054,0,0,105
+Library,Library Technician,49633,60329,1117,0,0,15
+Library,Library Technician Unclass,49633,60329,1277,153,0,153
+Library,Network Analyst,79468,96593,9669,1113,0,1113
+Library,Page,29120,29120,3986,0,0,42
+Library,Page,29120,29120,4834,0,0,62
+Library,Page,29120,29120,8544,0,0,104
+Library,Page,29120,29120,3204,347,0,347
+Library,Page,29120,29120,619,0,0,8
+Library,Page,29120,29120,2927,0,0,36
+Library,Page,29120,29120,3110,0,0,39
+Library,Page,29120,29120,2867,0,0,37
+Library,Page,29120,29120,3227,0,0,41
+Library,Page,29120,29120,2542,0,0,33
+Library,Page,29120,29120,4306,0,0,56
+Library,Senior Librarian,79035,96067,42512,2401,0,2401
+Library,Senior Librarian,79035,96067,71404,8317,14545,22862
+Library,Senior Librarian,79035,96067,111802,12472,13307,25779
+Library,Senior Library Technician,54295,65996,69988,5035,1033,6068
+Library,Senior Library Technician,54295,65996,2521,255,522,777
+Library,Senior Library Technician,54295,65996,68040,5152,12189,17341
+Library,Senior Library Technician,54295,65996,46186,5385,11927,17312
+Library,Senior Library Technician,54295,65996,60069,6906,15036,21942
+Library,Senior Library Technician,54295,65996,57734,6875,12523,19398
+Mayor & City Council,Admin Asst To Mayor Council,66070,70088,77107,5838,12417,18255
+Mayor & City Council,Councilmember,49168,49168,4379,427,810,1237
+Mayor & City Council,Councilmember,49168,49168,57047,5658,2783,8441
+Mayor & City Council,Councilmember,49168,49168,57047,5658,12339,17997
+Mayor & City Council,Councilmember,168064,168064,57047,5658,21454,27112
+Mayor & City Council,Councilmember,49168,49168,4379,283,1734,2017
+Mayor & City Council,Councilmember,49168,49168,57047,5658,21547,27205
+Mayor & City Council,Councilmember,49168,49168,53460,3402,8175,11577
+Mayor & City Council,Councilmember,49168,49168,53460,5250,0,5250
+Mayor & City Council,Mayor,61460,61460,72769,4591,13160,17751
+Parks & Recreation,Administrative Analyst II,87890,106832,73920,5369,5547,10916
+Parks & Recreation,Administrative Assistant,62924,76484,78852,5970,12189,18159
+Parks & Recreation,Administrative Assistant-Conf,62924,76484,70033,8185,12867,21052
+Parks & Recreation,Administrative Specialist,47118,57271,60773,4601,12537,17138
+Parks & Recreation,Administrative Specialist,47118,57271,59113,4470,11882,16352
+Parks & Recreation,Administrative Specialist,47118,57271,15950,684,2555,3239
+Parks & Recreation,Administrative Specialist,47118,57271,45713,3459,12189,15648
+Parks & Recreation,Administrative Specialist,47118,57271,60774,7083,12523,19606
+Parks & Recreation,Administrative Specialist,47118,57271,10765,737,2929,3666
+Parks & Recreation,Administrative Specialist,47118,57271,56005,6511,15036,21547
+Parks & Recreation,Adult Sports Official II,43909,43909,891,0,0,12
+Parks & Recreation,Adult Sports Official II,43909,43909,228,26,0,26
+Parks & Recreation,Assistant Parks Recreation Dir,134352,163305,23053,1401,0,1401
+Parks & Recreation,Associate Planner,77975,94780,83642,9178,0,9178
+Parks & Recreation,Associate Planner,77975,94780,81752,5926,481,6407
+Parks & Recreation,Associate Planner,77975,94780,2502,115,601,716
+Parks & Recreation,Associate Planner,77975,94780,20232,2419,2406,4825
+Parks & Recreation,Automotive Equipment Tech,58974,71683,69545,8105,8800,16905
+Parks & Recreation,Beach Lifeguard III,31304,31304,5593,0,0,71
+Parks & Recreation,Beach Lifeguard III,31304,31304,1972,0,0,26
+Parks & Recreation,Beach Lifeguard III,31304,31304,8285,0,0,105
+Parks & Recreation,Beach Lifeguard III,31304,31304,3077,0,0,40
+Parks & Recreation,Beach Lifeguard III,31304,31304,120,0,0,2
+Parks & Recreation,Beach Lifeguard III,31304,31304,8015,0,0,102
+Parks & Recreation,Beach Lifeguard III,31304,31304,2032,0,0,26
+Parks & Recreation,Beach Lifeguard IV,32344,32344,26,0,0,0
+Parks & Recreation,Beach Lifeguard IV,32344,32344,5902,0,0,77
+Parks & Recreation,Beach Lifeguard IV,32344,32344,4302,0,0,55
+Parks & Recreation,Beach Lifeguard IV,32344,32344,249,0,0,3
+Parks & Recreation,Beach Lifeguard IV,32344,32344,1461,0,0,19
+Parks & Recreation,Beach Lifeguard IV,32344,32344,2088,0,0,26
+Parks & Recreation,Beach Lifeguard Vi,34445,34445,16518,0,0,212
+Parks & Recreation,Bus Driver I,37606,37606,5605,0,0,72
+Parks & Recreation,Bus Driver I,37606,37606,2016,0,0,26
+Parks & Recreation,Bus Driver IV,43909,43909,12835,0,0,154
+Parks & Recreation,Bus Driver IV,43909,43909,1942,0,0,25
+Parks & Recreation,Bus Driver IV,43909,43909,1161,0,0,15
+Parks & Recreation,Bus Driver IV,43909,43909,464,0,0,6
+Parks & Recreation,Bus Driver IV,43909,43909,63,0,0,1
+Parks & Recreation,Bus Driver IV,43909,43909,1672,123,0,123
+Parks & Recreation,Clerical Assistant,29120,29120,2989,0,0,38
+Parks & Recreation,Clerical Assistant V,29203,29203,1192,0,0,14
+Parks & Recreation,Code Enforcement Officer,64513,78415,73707,8569,15036,23605
+Parks & Recreation,Creeks Outreach Coordinator,68152,82838,84706,6414,15031,21445
+Parks & Recreation,Creeks Restoration Cln Water Manager,113963,138523,143922,10891,20879,31770
+Parks & Recreation,Creeks Supervisor,99919,121452,129160,9411,12240,21651
+Parks & Recreation,Custodian,42011,51064,55282,4188,15036,19224
+Parks & Recreation,Equipment Operator,49403,60050,15268,0,0,191
+Parks & Recreation,Equipment Operator,49403,60050,34806,3768,5273,9041
+Parks & Recreation,Equipment Operator,49403,60050,65955,7215,760,7975
+Parks & Recreation,Equipment Operator,49403,60050,61909,4708,12346,17054
+Parks & Recreation,Equipment Operator,49403,60050,6631,0,0,82
+Parks & Recreation,Equipment Operator,49403,60050,36982,1961,2912,4873
+Parks & Recreation,Grounds Maintenance Asst I,29120,29120,666,0,0,1
+Parks & Recreation,Grounds Maintenance Asst I,29120,29120,1036,0,0,12
+Parks & Recreation,Grounds Maintenance Asst I,29120,29120,40533,4683,10200,14883
+Parks & Recreation,Grounds Maintenance Asst I,29120,29120,145,0,0,0
+Parks & Recreation,Grounds Maintenance Asst I,29120,29120,12987,0,0,169
+Parks & Recreation,Grounds Maintenance Asst I,29120,29120,1683,0,0,22
+Parks & Recreation,Grounds Maintenance Asst I,29120,29120,4003,0,0,50
+Parks & Recreation,Grounds Maintenance Asst I,29120,29120,12523,0,0,162
+Parks & Recreation,Grounds Maintenance Asst I,29120,29120,2642,0,0,30
+Parks & Recreation,Grounds Maintenance Asst I,29120,29120,1639,0,0,20
+Parks & Recreation,Grounds Maintenance Asst I,29120,29120,94,0,0,0
+Parks & Recreation,Grounds Maintenance Asst I,29120,29120,1521,0,0,17
+Parks & Recreation,Grounds Maintenance Asst I,29120,29120,159,0,0,2
+Parks & Recreation,Grounds Maintenance Asst I,29120,29120,5126,0,0,65
+Parks & Recreation,Grounds Maintenance Asst I,29120,29120,120,0,0,2
+Parks & Recreation,Grounds Maintenance Asst II,30243,30243,2370,0,0,31
+Parks & Recreation,Grounds Maintenance Asst II,30243,30243,14288,0,0,179
+Parks & Recreation,Grounds Maintenance Asst II,30243,30243,8088,466,0,466
+Parks & Recreation,Grounds Maintenance Asst II,30243,30243,8991,0,0,114
+Parks & Recreation,Grounds Maintenance Asst II,30243,30243,1760,0,0,23
+Parks & Recreation,Grounds Maintenance Asst II,30243,30243,8953,0,0,113
+Parks & Recreation,Grounds Maintenance Asst II,30243,30243,23347,1690,0,1690
+Parks & Recreation,Grounds Maintenance Asst II,30243,30243,7668,0,0,98
+Parks & Recreation,Grounds Maintenance Asst II,30243,30243,9122,0,0,114
+Parks & Recreation,Grounds Maintenance Asst II,30243,30243,7892,942,0,942
+Parks & Recreation,Grounds Maintenance Asst II,30243,30243,1876,0,0,24
+Parks & Recreation,Grounds Maintenance Crew Leader,55685,67686,70190,5282,14545,19827
+Parks & Recreation,Grounds Maintenance Crew Leader,55685,67686,70295,5283,10087,15370
+Parks & Recreation,Grounds Maintenance Crew Leader,55685,67686,73445,5301,670,5971
+Parks & Recreation,Grounds Maintenance Worker I,44049,53542,35639,2705,12664,15369
+Parks & Recreation,Grounds Maintenance Worker I,44049,53542,14316,0,0,180
+Parks & Recreation,Grounds Maintenance Worker I,44049,53542,55606,4179,8804,12983
+Parks & Recreation,Grounds Maintenance Worker I,44049,53542,37069,4238,0,4238
+Parks & Recreation,Grounds Maintenance Worker II,49403,60050,52928,6084,10073,16157
+Parks & Recreation,Grounds Maintenance Worker II,49403,60050,53032,6127,6619,12746
+Parks & Recreation,Grounds Maintenance Worker II,49403,60050,65760,4708,1161,5869
+Parks & Recreation,Grounds Maintenance Worker II,49403,60050,61909,4708,12590,17298
+Parks & Recreation,Grounds Maintenance Worker II,49403,60050,38104,3724,10584,14308
+Parks & Recreation,Grounds Maintenance Worker II,49403,60050,56737,4275,15007,19282
+Parks & Recreation,Grounds Maintenance Worker II,49403,60050,61571,7130,12156,19286
+Parks & Recreation,Grounds Maintenance Worker II,49403,60050,62674,4708,12189,16897
+Parks & Recreation,Head Beach Lifeguard I,35506,35506,16296,0,0,209
+Parks & Recreation,Head Beach Lifeguard I,35506,35506,96,0,0,1
+Parks & Recreation,Head Beach Lifeguard II,37606,37606,12327,0,0,155
+Parks & Recreation,Head Beach Lifeguard II,37606,37606,9433,0,0,121
+Parks & Recreation,Head Beach Lifeguard III,39707,39707,13550,0,0,173
+Parks & Recreation,Head Beach Lifeguard III,39707,39707,25442,0,0,328
+Parks & Recreation,Head Beach Lifeguard III,39707,39707,19276,0,0,248
+Parks & Recreation,Head Beach Lifeguard IV,41808,41808,6472,0,0,84
+Parks & Recreation,Head Beach Lifeguard V,43909,43909,18455,0,0,237
+Parks & Recreation,Head Beach Lifeguard V,43909,43909,16650,0,0,210
+Parks & Recreation,Indoor Facilities Monitor,29120,29120,1766,0,0,23
+Parks & Recreation,Indoor Facilities Monitor,29120,29120,236,0,0,3
+Parks & Recreation,Indoor Facilities Monitor,29120,29120,756,0,0,10
+Parks & Recreation,Indoor Facilities Monitor,29120,29120,711,0,0,9
+Parks & Recreation,Indoor Facilities Monitor,29120,29120,1962,0,0,22
+Parks & Recreation,Indoor Facilities Monitor,29120,29120,887,0,0,12
+Parks & Recreation,Indoor Facilities Monitor,29120,29120,3502,226,0,226
+Parks & Recreation,Indoor Facilities Monitor,29120,29120,1297,0,0,14
+Parks & Recreation,Indoor Facilities Monitor,29120,29120,10928,0,0,139
+Parks & Recreation,Indoor Facilities Monitor,29120,29120,1097,0,0,14
+Parks & Recreation,Indoor Facilities Monitor,29120,29120,80,0,0,1
+Parks & Recreation,Irrigation Systems Technician,55964,68025,74660,5330,0,5330
+Parks & Recreation,Irrigation Systems Technician,55964,68025,70131,5330,12189,17519
+Parks & Recreation,Job Apprentice I,29120,29120,2292,0,0,29
+Parks & Recreation,Job Apprentice I,29120,29120,111,0,0,1
+Parks & Recreation,Job Apprentice I,29120,29120,366,0,0,3
+Parks & Recreation,Job Apprentice I,29120,29120,182,0,0,2
+Parks & Recreation,Job Apprentice I,29120,29120,52,0,0,1
+Parks & Recreation,Job Apprentice I,29120,29120,393,0,0,5
+Parks & Recreation,Job Apprentice I,29120,29120,2881,0,0,34
+Parks & Recreation,Job Apprentice I,29120,29120,529,0,0,7
+Parks & Recreation,Job Apprentice I,29120,29120,267,0,0,3
+Parks & Recreation,Job Apprentice I,29120,29120,2073,0,0,27
+Parks & Recreation,Job Apprentice I,29120,29120,36,0,0,0
+Parks & Recreation,Job Apprentice I,29120,29120,651,0,0,8
+Parks & Recreation,Jr Lifeguard Instructor I,29203,29203,5899,0,0,75
+Parks & Recreation,Jr Lifeguard Instructor I,29203,29203,5312,0,0,68
+Parks & Recreation,Jr Lifeguard Instructor III,31304,31304,8660,0,0,110
+Parks & Recreation,Jr Lifeguard Instructor III,31304,31304,5718,0,0,73
+Parks & Recreation,Jr Lifeguard Instructor III,31304,31304,5367,0,0,68
+Parks & Recreation,Jr Lifeguard Instructor III,31304,31304,5754,0,0,74
+Parks & Recreation,Jr Lifeguard Instructor III,31304,31304,6147,0,0,79
+Parks & Recreation,Jr Lifeguard Instructor V,33405,33405,6494,0,0,83
+Parks & Recreation,Jr Lifeguard Instructor V,33405,33405,5061,0,0,65
+Parks & Recreation,Jr Lifeguard Instructor V,33405,33405,5784,0,0,74
+Parks & Recreation,Jr Lifeguard Program Dir I,35506,35506,10412,0,0,134
+Parks & Recreation,Jr Lifeguard Program Dir III,39707,39707,6667,0,0,85
+Parks & Recreation,Jr Lifeguard Program Dir III,39707,39707,7239,0,0,93
+Parks & Recreation,Jr Lifeguard Program Dir IV,41808,41808,15165,0,0,195
+Parks & Recreation,Jr Lifeguard Program Dir V,43909,43909,12233,0,0,156
+Parks & Recreation,Jr Lifeguard Program Dir V,43909,43909,12837,0,0,164
+Parks & Recreation,Jr Lifeguard Program Dir V,43909,43909,3837,0,0,50
+Parks & Recreation,Jr Lifeguard Program Dir V,43909,43909,3837,0,0,50
+Parks & Recreation,Lead Park Ranger,60044,72985,80837,8889,12428,21317
+Parks & Recreation,Marketing Coordinator,73445,89274,92102,10727,12021,22748
+Parks & Recreation,Neighborhood Outreach Services Coordinator II,65160,79202,86750,6313,1161,7474
+Parks & Recreation,Office Specialist I,38983,47383,9384,0,0,122
+Parks & Recreation,Office Specialist I,38983,47383,12697,0,0,156
+Parks & Recreation,Office Specialist I,38983,47383,10093,0,0,129
+Parks & Recreation,Office Specialist I,38983,47383,73,0,0,1
+Parks & Recreation,Office Specialist II,42858,52093,59836,4197,128,4325
+Parks & Recreation,Office Specialist II,42858,52093,10833,728,0,728
+Parks & Recreation,Office Specialist II,42858,52093,48443,5624,12570,18194
+Parks & Recreation,Outdoor Facility Monitor,29120,29120,154,0,0,2
+Parks & Recreation,Outdoor Facility Monitor,29120,29120,4799,0,0,62
+Parks & Recreation,Outdoor Facility Monitor,29120,29120,15518,0,0,194
+Parks & Recreation,Outdoor Facility Monitor V,29203,29203,2688,0,0,33
+Parks & Recreation,Outdoor Facility Monitor V,29203,29203,1909,0,0,25
+Parks & Recreation,Park Project Technician,59269,72041,74851,5623,15036,20659
+Parks & Recreation,Park Ranger,54586,66349,65561,7164,1066,8230
+Parks & Recreation,Park Ranger,54586,66349,65520,4961,13086,18047
+Parks & Recreation,Park Ranger,54586,66349,34361,3574,5650,9224
+Parks & Recreation,Parks Capital Project Supervisor,96157,116880,106599,8056,15398,23454
+Parks & Recreation,Parks Capital Project Supervisor,96157,116880,21244,971,1517,2488
+Parks & Recreation,Parks Manager,105302,127995,114178,8640,20879,29519
+Parks & Recreation,Parks Recreation Business Manager,109475,133067,139091,13774,0,13774
+Parks & Recreation,Parks Recreation Director,161225,195971,220571,15408,11864,27272
+Parks & Recreation,Parks Superintendent,83871,101946,139519,8082,0,8082
+Parks & Recreation,Parks Supervisor,72616,88265,107652,6980,1364,8344
+Parks & Recreation,Parks Supervisor,72616,88265,92185,6979,16826,23805
+Parks & Recreation,Parks Supervisor,72616,88265,106765,10740,2593,13333
+Parks & Recreation,Pool Lifeguard,29120,29120,465,0,0,6
+Parks & Recreation,Pool Lifeguard,29120,29120,2202,0,0,29
+Parks & Recreation,Pool Lifeguard,29120,29120,1894,0,0,25
+Parks & Recreation,Pool Technician,52845,64233,43983,3312,10172,13484
+Parks & Recreation,Project Planner,83614,101634,104781,7933,11946,19879
+Parks & Recreation,Project Planner,83614,101634,108000,12049,0,12049
+Parks & Recreation,Recreation Assistant,29120,29120,130,0,0,2
+Parks & Recreation,Recreation Assistant,29120,29120,26,0,0,0
+Parks & Recreation,Recreation Assistant,29120,29120,2983,0,0,33
+Parks & Recreation,Recreation Assistant,29120,29120,1840,0,0,24
+Parks & Recreation,Recreation Assistant,29120,29120,1838,0,0,24
+Parks & Recreation,Recreation Coordinator,56950,69223,62798,7323,13077,20400
+Parks & Recreation,Recreation Coordinator,56950,69223,71235,5393,12156,17549
+Parks & Recreation,Recreation Coordinator,56950,69223,39659,3131,0,3131
+Parks & Recreation,Recreation Coordinator,56950,69223,64231,7350,14545,21895
+Parks & Recreation,Recreation Coordinator,56950,69223,61912,7195,12867,20062
+Parks & Recreation,Recreation Coordinator,56950,69223,58238,6796,11636,18432
+Parks & Recreation,Recreation Equipment Tech,29120,29120,3078,0,0,38
+Parks & Recreation,Recreation Equipment Tech,29120,29120,2451,0,0,31
+Parks & Recreation,Recreation Equipment Tech,29120,29120,1732,0,0,22
+Parks & Recreation,Recreation Equipment Tech,29120,29120,893,0,0,12
+Parks & Recreation,Recreation Leader,29120,29120,80,0,0,0
+Parks & Recreation,Recreation Leader,29120,29120,847,0,0,8
+Parks & Recreation,Recreation Leader,29120,29120,4098,0,0,42
+Parks & Recreation,Recreation Leader,29120,29120,4673,0,0,59
+Parks & Recreation,Recreation Leader III,27102,27102,49,0,0,1
+Parks & Recreation,Recreation Leader III,27102,27102,2235,0,0,29
+Parks & Recreation,Recreation Leader III,27102,27102,1681,0,0,22
+Parks & Recreation,Recreation Leader IV,28142,28142,68,0,0,0
+Parks & Recreation,Recreation Leader IV,28142,28142,2887,0,0,34
+Parks & Recreation,Recreation Leader IV,28142,28142,2200,0,0,27
+Parks & Recreation,Recreation Leader IV,28142,28142,907,0,0,9
+Parks & Recreation,Recreation Leader IV,28142,28142,3745,0,0,46
+Parks & Recreation,Recreation Leader IV,28142,28142,4710,0,0,58
+Parks & Recreation,Recreation Leader IV,28142,28142,1881,0,0,21
+Parks & Recreation,Recreation Leader IV,28142,28142,660,0,0,9
+Parks & Recreation,Recreation Leader IV,28142,28142,44,0,0,1
+Parks & Recreation,Recreation Leader IV,28142,28142,2784,0,0,36
+Parks & Recreation,Recreation Leader IV,28142,28142,551,0,0,7
+Parks & Recreation,Recreation Leader V,29203,29203,324,0,0,0
+Parks & Recreation,Recreation Leader V,29203,29203,7055,0,0,89
+Parks & Recreation,Recreation Leader V,29203,29203,1060,0,0,14
+Parks & Recreation,Recreation Leader V,29203,29203,4824,0,0,58
+Parks & Recreation,Recreation Leader V,29203,29203,3161,0,0,40
+Parks & Recreation,Recreation Leader V,29203,29203,1386,0,0,18
+Parks & Recreation,Recreation Program Coordinator I,29203,29203,2313,0,0,30
+Parks & Recreation,Recreation Program Coordinator II,31304,31304,4656,537,0,537
+Parks & Recreation,Recreation Program Coordinator II,31304,31304,2840,0,0,36
+Parks & Recreation,Recreation Program Coordinator II,31304,31304,3399,0,0,38
+Parks & Recreation,Recreation Program Coordinator II,31304,31304,9573,0,0,123
+Parks & Recreation,Recreation Program Coordinator II,31304,31304,7828,0,0,100
+Parks & Recreation,Recreation Program Coordinator II,31304,31304,3183,0,0,41
+Parks & Recreation,Recreation Program Coordinator II,31304,31304,2246,0,0,29
+Parks & Recreation,Recreation Program Coordinator III,33405,33405,83,0,0,0
+Parks & Recreation,Recreation Program Coordinator III,33405,33405,506,0,0,7
+Parks & Recreation,Recreation Program Coordinator III,33405,33405,7308,600,0,600
+Parks & Recreation,Recreation Program Coordinator III,33405,33405,771,0,0,0
+Parks & Recreation,Recreation Program Coordinator III,33405,33405,32,0,0,0
+Parks & Recreation,Recreation Program Coordinator III,33405,33405,6434,741,0,741
+Parks & Recreation,Recreation Program Coordinator III,33405,33405,3638,0,0,47
+Parks & Recreation,Recreation Program Coordinator IV,35506,35506,3470,0,0,43
+Parks & Recreation,Recreation Program Coordinator IV,35506,35506,4026,0,0,52
+Parks & Recreation,Recreation Program Coordinator IV,35506,35506,1612,0,0,16
+Parks & Recreation,Recreation Program Coordinator IV,35506,35506,43,0,0,1
+Parks & Recreation,Recreation Program Coordinator IV,35506,35506,186,0,0,0
+Parks & Recreation,Recreation Program Coordinator IV,35506,35506,2564,257,0,257
+Parks & Recreation,Recreation Program Coordinator IV,35506,35506,4123,0,0,51
+Parks & Recreation,Recreation Program Coordinator IV,35506,35506,43,0,0,1
+Parks & Recreation,Recreation Program Coordinator V,37606,37606,117,0,0,0
+Parks & Recreation,Recreation Program Coordinator V,37606,37606,88,0,0,0
+Parks & Recreation,Recreation Program Dir III,33405,33405,2,0,0,0
+Parks & Recreation,Recreation Program Dir III,33405,33405,8882,714,0,714
+Parks & Recreation,Recreation Program Dir III,33405,33405,9922,0,0,115
+Parks & Recreation,Recreation Program Dir III,33405,33405,8789,0,0,105
+Parks & Recreation,Recreation Program Dir III,33405,33405,2426,0,0,32
+Parks & Recreation,Recreation Program Dir IV,35506,35506,6984,0,0,89
+Parks & Recreation,Recreation Program Dir IV,35506,35506,1101,0,0,14
+Parks & Recreation,Recreation Program Dir IV,35506,35506,34,0,0,0
+Parks & Recreation,Recreation Program Dir IV,35506,35506,163,0,0,1
+Parks & Recreation,Recreation Program Dir IV,35506,35506,2597,287,0,287
+Parks & Recreation,Recreation Program Dir IV,35506,35506,2940,0,0,37
+Parks & Recreation,Recreation Program Dir V,37606,37606,9529,0,0,122
+Parks & Recreation,Recreation Program Dir V,37606,37606,2570,0,0,32
+Parks & Recreation,Recreation Program Dir V,37606,37606,3007,219,0,219
+Parks & Recreation,Recreation Program Dir V,37606,37606,2369,0,0,29
+Parks & Recreation,Recreation Program Dir V,37606,37606,5112,542,0,542
+Parks & Recreation,Recreation Program Dir V,37606,37606,3772,0,0,43
+Parks & Recreation,Recreation Program Dir V,37606,37606,237,0,0,2
+Parks & Recreation,Recreation Program Leader,41387,50306,5100,0,0,61
+Parks & Recreation,Recreation Program Leader,41387,50306,8132,0,0,103
+Parks & Recreation,Recreation Programs Manager,105302,127995,134308,10064,19560,29624
+Parks & Recreation,Recreation Specialist,47118,57271,54953,6397,13074,19471
+Parks & Recreation,Recreation Specialist,47118,57271,20322,0,0,254
+Parks & Recreation,Recreation Specialist,47118,57271,17183,733,0,733
+Parks & Recreation,Recreation Supervisor I,74333,90352,92392,6152,6569,12721
+Parks & Recreation,Recreation Supervisor I,74333,90352,105226,7145,6623,13768
+Parks & Recreation,Recreation Supervisor I,74333,90352,111453,10995,0,10995
+Parks & Recreation,Recreation Supervisor I,74333,90352,62883,7402,12240,19642
+Parks & Recreation,Recreation Therapist Nurse I,43909,43909,1314,0,0,17
+Parks & Recreation,Senior Grounds Maintenance Worker,51414,62495,61794,7187,12097,19284
+Parks & Recreation,Senior Grounds Maintenance Worker,51414,62495,57792,4778,12230,17008
+Parks & Recreation,Senior Grounds Maintenance Worker,51414,62495,63725,4845,12230,17075
+Parks & Recreation,Senior Grounds Maintenance Worker,51414,62495,64562,4864,15036,19900
+Parks & Recreation,Senior Grounds Maintenance Worker,51414,62495,64429,4899,15036,19935
+Parks & Recreation,Senior Grounds Maintenance Worker,51414,62495,68697,4899,1716,6615
+Parks & Recreation,Senior Maintenance Worker,52845,64233,69480,7547,0,7547
+Parks & Recreation,Senior Pool Lifeguard III,31304,31304,4345,0,0,56
+Parks & Recreation,Senior Pool Lifeguard III,31304,31304,3033,0,0,39
+Parks & Recreation,Senior Pool Lifeguard III,31304,31304,2621,0,0,33
+Parks & Recreation,Senior Pool Lifeguard III,31304,31304,1065,0,0,14
+Parks & Recreation,Senior Pool Lifeguard III,31304,31304,10375,0,0,134
+Parks & Recreation,Senior Pool Lifeguard III,31304,31304,591,0,0,8
+Parks & Recreation,Senior Pool Lifeguard III,31304,31304,13171,0,0,170
+Parks & Recreation,Senior Pool Lifeguard III,31304,31304,15032,0,0,194
+Parks & Recreation,Senior Recreation Supervisor,86330,104935,112824,8277,13374,21651
+Parks & Recreation,Senior Recreation Supervisor,86330,104935,125178,8298,1364,9662
+Parks & Recreation,Senior Tree Trimmer,56667,68879,72968,5397,12490,17887
+Parks & Recreation,Senior Tree Trimmer,56667,68879,62428,7086,12471,19557
+Parks & Recreation,Sports Coach I,29203,29203,1299,0,0,17
+Parks & Recreation,Sports Coach I,29203,29203,112,13,0,13
+Parks & Recreation,Sports Coach I,29203,29203,167,0,0,0
+Parks & Recreation,Sports Coach I,29203,29203,7140,0,0,90
+Parks & Recreation,Sports Coach I,29203,29203,1039,0,0,14
+Parks & Recreation,Sports Coach I,29203,29203,253,0,0,3
+Parks & Recreation,Sports Coach I,29203,29203,1376,156,0,156
+Parks & Recreation,Sports Coach I,29203,29203,289,0,0,4
+Parks & Recreation,Sports Coach III,33405,33405,1799,136,0,136
+Parks & Recreation,Sports Official I,29203,29203,3631,0,0,47
+Parks & Recreation,Sports Official I,29203,29203,90,0,0,1
+Parks & Recreation,Sports Official I,29203,29203,811,0,0,11
+Parks & Recreation,Sports Official I,29203,29203,281,0,0,4
+Parks & Recreation,Sports Official I,29203,29203,1608,0,0,21
+Parks & Recreation,Sports Official I,29203,29203,393,0,0,5
+Parks & Recreation,Sports Official I,29203,29203,112,0,0,1
+Parks & Recreation,Sports Official I,29203,29203,534,0,0,7
+Parks & Recreation,Sports Official I,29203,29203,337,0,0,4
+Parks & Recreation,Sports Official V,37606,37606,44,0,0,1
+Parks & Recreation,Sports Official V,37606,37606,1013,0,0,13
+Parks & Recreation,Sports Official V,37606,37606,540,0,0,7
+Parks & Recreation,Sports Official V,37606,37606,749,0,0,10
+Parks & Recreation,Street Tree Supervisor,72616,88265,78721,8753,12471,21224
+Parks & Recreation,Swim Instructor III,29203,29203,179,0,0,2
+Parks & Recreation,Swim Instructor III,29203,29203,604,0,0,8
+Parks & Recreation,Swim Instructor III,29203,29203,6365,0,0,81
+Parks & Recreation,Tree Care Specialist,51032,62030,65866,4862,15036,19898
+Parks & Recreation,Tree Trimmer II,50525,61414,56323,6244,12017,18261
+Parks & Recreation,Urban Forest Superintendent,92350,112252,114372,7377,0,7377
+Parks & Recreation,Water Quality Research Analyst,87890,106832,78526,5761,762,6523
+Parks & Recreation,Zpool Lifeguard IV,28142,28142,196,0,0,3
+Parks & Recreation,Zpool Lifeguard IV,28142,28142,372,0,0,5
+Parks & Recreation,Zpool Lifeguard IV,28142,28142,352,0,0,5
+Parks & Recreation,Zpool Lifeguard IV,28142,28142,179,0,0,2
+Public Safety - Fire,Emergency Services Manager,98970,120298,126057,9458,19818,29276
+Public Safety - Fire,Fire Inspector II,89815,109171,170342,26559,15418,41977
+Public Safety - Fire,Fire Public Education Coordinator,68152,82838,89072,9533,1203,10736
+Public Safety - Fire,Fire Services Specialist,62924,76484,78780,5965,13110,19075
+Public Safety - Police,Administrative Assistant-Conf,62924,76484,73377,5557,10073,15630
+Public Safety - Police,Administrative Specialist,47118,57271,6499,0,0,77
+Public Safety - Police,Administrative Specialist,47118,57271,51125,5897,13077,18974
+Public Safety - Police,Administrative Specialist,47118,57271,63574,4470,0,4470
+Public Safety - Police,Administrative Specialist,47118,57271,64912,4470,1033,5503
+Public Safety - Police,Administrative Specialist,47118,57271,17459,1795,4390,6185
+Public Safety - Police,Administrative Specialist,47118,57271,6049,635,0,635
+Public Safety - Police,Animal Control Officer,53335,64829,80114,7241,12189,19430
+Public Safety - Police,Animal Control Officer,53335,64829,85580,7790,13077,20867
+Public Safety - Police,Animal Control Officer II,58930,71629,97053,5612,15036,20648
+Public Safety - Police,Emergency Med Disp Auditor,105664,105664,6535,0,0,83
+Public Safety - Police,Emergency Medical Dispatcher,75483,75483,3701,181,0,181
+Public Safety - Police,Identification Technician,76658,93178,105408,11225,1406,12631
+Public Safety - Police,Network Administrator,96050,116750,168674,9113,15036,24149
+Public Safety - Police,Office Specialist II,42858,52093,6464,0,0,75
+Public Safety - Police,Office Specialist II,42858,52093,5533,0,0,60
+Public Safety - Police,Office Specialist II,42858,52093,1206,137,0,137
+Public Safety - Police,Office Specialist II,42858,52093,53706,4066,12490,16556
+Public Safety - Police,Office Specialist II,42858,52093,5658,0,0,62
+Public Safety - Police,Parking Enforcement Officer,50925,61900,65901,7574,17368,24942
+Public Safety - Police,Parking Enforcement Officer,50925,61900,62332,6961,12071,19032
+Public Safety - Police,Parking Enforcement Officer,50925,61900,55795,6269,0,6269
+Public Safety - Police,Parking Enforcement Officer,50925,61900,60810,6935,9647,16582
+Public Safety - Police,Parking Enforcement Officer,50925,61900,70275,5094,17567,22661
+Public Safety - Police,Parking Enforcement Officer,50925,61900,67144,4990,18469,23459
+Public Safety - Police,Parking Enforcement Officer,50925,61900,64544,4942,17481,22423
+Public Safety - Police,Parking Enforcement Officer,50925,61900,70610,4990,12239,17229
+Public Safety - Police,Parking Enforcement Officer,50925,61900,71990,5199,12398,17597
+Public Safety - Police,Parking Enforcement Officer,50925,61900,14338,1448,4233,5681
+Public Safety - Police,Parking Enforcement Officer,50925,61900,26794,2604,619,3223
+Public Safety - Police,Parking Enforcement Officer,50925,61900,48062,5516,8098,13614
+Public Safety - Police,Parking Enforcement Officer,50925,61900,61000,6253,0,6253
+Public Safety - Police,Police Business Manager,106247,129144,134111,10154,20950,31104
+Public Safety - Police,Police Cadet I,32136,32136,3916,0,0,47
+Public Safety - Police,Police Cadet I,32136,32136,4271,0,0,50
+Public Safety - Police,Police Cadet II,34237,34237,4712,0,0,60
+Public Safety - Police,Police Cadet II,34237,34237,5519,0,0,69
+Public Safety - Police,Police Captain,163696,198974,230312,38484,9255,47739
+Public Safety - Police,Police Captain,163696,198974,223623,36392,2174,38566
+Public Safety - Police,Police Captain,163696,198974,217718,38484,21814,60298
+Public Safety - Police,Police Chief,192344,233795,264493,2326,16434,18760
+Public Safety - Police,Police Info Technology Manager,111680,135749,161920,10673,0,10673
+Public Safety - Police,Police Lieutenant,140246,170470,189858,33206,21814,55020
+Public Safety - Police,Police Lieutenant,140246,170470,191144,31846,16851,48697
+Public Safety - Police,Police Lieutenant,140246,170470,188748,31965,21719,53684
+Public Safety - Police,Police Lieutenant,140246,170470,171558,33532,1279,34811
+Public Safety - Police,Police Lieutenant,140246,170470,190116,33206,21814,55020
+Public Safety - Police,Police Lieutenant,140246,170470,195869,31003,0,31003
+Public Safety - Police,Police Officer,87688,106586,140037,25297,18584,43881
+Public Safety - Police,Police Officer,87688,106586,104522,21930,16182,38112
+Public Safety - Police,Police Officer,87688,106586,146104,23186,18474,41660
+Public Safety - Police,Police Officer,87688,106586,114106,22498,13431,35929
+Public Safety - Police,Police Officer,87688,106586,111958,21462,18306,39768
+Public Safety - Police,Police Officer,87688,106586,129540,23184,16175,39359
+Public Safety - Police,Police Officer,87688,106586,101476,21818,13077,34895
+Public Safety - Police,Police Officer,87688,106586,114537,20227,0,20227
+Public Safety - Police,Police Officer,87688,106586,129292,23986,10226,34212
+Public Safety - Police,Police Officer,87688,106586,127145,23991,572,24563
+Public Safety - Police,Police Officer,87688,106586,127882,24597,17368,41965
+Public Safety - Police,Police Officer,87688,106586,121594,24447,17511,41958
+Public Safety - Police,Police Officer,87688,106586,138020,23993,13077,37070
+Public Safety - Police,Police Officer,87688,106586,130966,23664,1285,24949
+Public Safety - Police,Police Officer,87688,106586,68501,10702,9217,19919
+Public Safety - Police,Police Officer,87688,106586,146389,26008,18589,44597
+Public Safety - Police,Police Officer,87688,106586,114990,22815,12156,34971
+Public Safety - Police,Police Officer,87688,106586,116493,23449,17368,40817
+Public Safety - Police,Police Officer,87688,106586,144009,25246,0,25246
+Public Safety - Police,Police Officer,87688,106586,122940,22545,5357,27902
+Public Safety - Police,Police Officer,87688,106586,127093,22781,0,22781
+Public Safety - Police,Police Officer,87688,106586,111352,21824,13372,35196
+Public Safety - Police,Police Officer,87688,106586,119494,22545,12156,34701
+Public Safety - Police,Police Officer,87688,106586,106673,22545,13077,35622
+Public Safety - Police,Police Officer,87688,106586,137176,28199,18582,46781
+Public Safety - Police,Police Officer,87688,106586,121929,21811,12540,34351
+Public Safety - Police,Police Officer,87688,106586,108382,21510,18306,39816
+Public Safety - Police,Police Officer,87688,106586,146438,27776,18589,46365
+Public Safety - Police,Police Officer,87688,106586,55488,8720,4016,12736
+Public Safety - Police,Police Officer,87688,106586,45317,0,0,0
+Public Safety - Police,Police Officer,87688,106586,131355,26235,17122,43357
+Public Safety - Police,Police Officer,87688,106586,141189,27773,0,27773
+Public Safety - Police,Police Officer,87688,106586,150562,27819,740,28559
+Public Safety - Police,Police Officer,87688,106586,123897,26798,10156,36954
+Public Safety - Police,Police Officer,87688,106586,132209,27287,17819,45106
+Public Safety - Police,Police Officer,87688,106586,135633,27330,18589,45919
+Public Safety - Police,Police Officer,87688,106586,150338,27776,18589,46365
+Public Safety - Police,Police Officer,87688,106586,147342,27330,1401,28731
+Public Safety - Police,Police Officer,87688,106586,147391,27819,0,27819
+Public Safety - Police,Police Officer,87688,106586,127735,27236,16182,43418
+Public Safety - Police,Police Officer,87688,106586,141732,29334,1313,30647
+Public Safety - Police,Police Officer,87688,106586,159034,28121,18582,46703
+Public Safety - Police,Police Officer,87688,106586,174686,27819,12919,40738
+Public Safety - Police,Police Officer,87688,106586,153792,27330,18582,45912
+Public Safety - Police,Police Officer,87688,106586,20566,0,0,0
+Public Safety - Police,Police Officer,87688,106586,165651,28423,15404,43827
+Public Safety - Police,Police Officer,87688,106586,196980,28077,0,28077
+Public Safety - Police,Police Officer,87688,106586,124612,24622,12457,37079
+Public Safety - Police,Police Officer,87688,106586,130020,27775,18582,46357
+Public Safety - Police,Police Officer,87688,106586,166447,27819,16175,43994
+Public Safety - Police,Police Officer,87688,106586,174440,27776,1286,29062
+Public Safety - Police,Police Officer,87688,106586,128523,27100,18589,45689
+Public Safety - Police,Police Officer,87688,106586,100806,20537,13077,33614
+Public Safety - Police,Police Officer,87688,106586,146458,27817,680,28497
+Public Safety - Police,Police Officer,87688,106586,137996,27287,18469,45756
+Public Safety - Police,Police Officer,87688,106586,144094,27330,18582,45912
+Public Safety - Police,Police Officer,87688,106586,171644,27287,13077,40364
+Public Safety - Police,Police Officer,87688,106586,150561,27290,16086,43376
+Public Safety - Police,Police Officer,87688,106586,152043,27287,15404,42691
+Public Safety - Police,Police Officer,87688,106586,129113,27776,18609,46385
+Public Safety - Police,Police Officer,87688,106586,129783,27287,12901,40188
+Public Safety - Police,Police Officer,87688,106586,119464,25420,14605,40025
+Public Safety - Police,Police Officer,87688,106586,143285,27287,0,27287
+Public Safety - Police,Police Officer,87688,106586,134368,26353,18589,44942
+Public Safety - Police,Police Officer,87688,106586,143409,26775,16175,42950
+Public Safety - Police,Police Officer,87688,106586,142187,24678,577,25255
+Public Safety - Police,Police Officer,87688,106586,135311,25201,16054,41255
+Public Safety - Police,Police Officer,87688,106586,165401,26841,13933,40774
+Public Safety - Police,Police Officer,87688,106586,134317,27386,12239,39625
+Public Safety - Police,Police Officer,87688,106586,123713,26798,12239,39037
+Public Safety - Police,Police Officer,87688,106586,126416,26194,1792,27986
+Public Safety - Police,Police Officer,87688,106586,144692,27219,744,27963
+Public Safety - Police,Police Officer,87688,106586,141780,27287,8804,36091
+Public Safety - Police,Police Officer,87688,106586,139458,26567,8804,35371
+Public Safety - Police,Police Officer,87688,106586,155966,26010,18582,44592
+Public Safety - Police,Police Officer,87688,106586,153802,26903,12648,39551
+Public Safety - Police,Police Officer,87688,106586,133686,27776,0,27776
+Public Safety - Police,Police Officer,87688,106586,175420,26008,18469,44477
+Public Safety - Police,Police Officer,87688,106586,123967,26077,12239,38316
+Public Safety - Police,Police Officer,87688,106586,146952,27819,18524,46343
+Public Safety - Police,Police Officer,87688,106586,131425,27776,18589,46365
+Public Safety - Police,Police Officer,87688,106586,123256,26234,16047,42281
+Public Safety - Police,Police Officer,87688,106586,151149,26303,13160,39463
+Public Safety - Police,Police Officer,87688,106586,149281,23061,94,23155
+Public Safety - Police,Police Officer,87688,106586,128084,21496,9957,31453
+Public Safety - Police,Police Officer,87688,106586,117102,23018,13616,36634
+Public Safety - Police,Police Officer,87688,106586,130245,25618,10073,35691
+Public Safety - Police,Police Officer,87688,106586,123778,25595,10015,35610
+Public Safety - Police,Police Officer,87688,106586,114550,24334,18609,42943
+Public Safety - Police,Police Officer,87688,106586,113700,21500,0,21500
+Public Safety - Police,Police Officer,87688,106586,106677,20779,12239,33018
+Public Safety - Police,Police Officer,87688,106586,92944,17090,12156,29246
+Public Safety - Police,Police Officer,87688,106586,110677,20779,12239,33018
+Public Safety - Police,Police Officer,87688,106586,13777,1906,1478,3384
+Public Safety - Police,Police Officer,87688,106586,42505,6490,4220,10710
+Public Safety - Police,Police Officer,87688,106586,128973,23986,16175,40161
+Public Safety - Police,Police Officer,87688,106586,96936,17090,6179,23269
+Public Safety - Police,Police Officer,87688,106586,96080,17239,12156,29395
+Public Safety - Police,Police Officer,87688,106586,93512,17090,12239,29329
+Public Safety - Police,Police Officer,87688,106586,95308,17090,12239,29329
+Public Safety - Police,Police Officer,87688,106586,98710,17090,8612,25702
+Public Safety - Police,Police Officer,87688,106586,93559,17090,12156,29246
+Public Safety - Police,Police Officer,87688,106586,63881,13804,8553,22357
+Public Safety - Police,Police Officer Entry Level,83007,100895,62869,7140,8962,16102
+Public Safety - Police,Police Project Manager,96283,96283,255,0,0,0
+Public Safety - Police,Police Property Evidence Asst,54066,65718,70818,5261,17368,22629
+Public Safety - Police,Police Property Evidence Tech,63739,77476,82543,9480,12239,21719
+Public Safety - Police,Police Public Engagement Manager,111582,135629,144782,16412,17013,33425
+Public Safety - Police,Police Range Equipment Spec,60337,73340,81609,8985,16054,25039
+Public Safety - Police,Police Records Manager,91674,109619,109117,7538,11394,18932
+Public Safety - Police,Police Records Specialist,46785,56867,44157,4422,8337,12759
+Public Safety - Police,Police Records Specialist,46785,56867,53951,5772,11706,17478
+Public Safety - Police,Police Records Specialist,46785,56867,56293,6252,12156,18408
+Public Safety - Police,Police Records Specialist,46785,56867,53526,6004,12570,18574
+Public Safety - Police,Police Records Specialist,46785,56867,55777,6252,18448,24700
+Public Safety - Police,Police Records Specialist,46785,56867,61369,4599,8804,13403
+Public Safety - Police,Police Records Specialist,46785,56867,10797,796,712,1508
+Public Safety - Police,Police Records Specialist,46785,56867,63201,6961,12156,19117
+Public Safety - Police,Police Records Specialist,46785,56867,61085,4577,6971,11548
+Public Safety - Police,Police Records Specialist,46785,56867,61453,4589,14222,18811
+Public Safety - Police,Police Records Specialist,46785,56867,4688,209,0,209
+Public Safety - Police,Police Records Specialist,46785,56867,50324,4459,8736,13195
+Public Safety - Police,Police Records Supervisor,63739,77476,86910,6438,12540,18978
+Public Safety - Police,Police Records Supervisor,63739,77476,89081,8346,0,8346
+Public Safety - Police,Police Sergeant,113086,137457,166173,33532,18582,52114
+Public Safety - Police,Police Sergeant,113086,137457,192812,33576,16175,49751
+Public Safety - Police,Police Sergeant,113086,137457,175935,33532,17839,51371
+Public Safety - Police,Police Sergeant,113086,137457,154248,31364,16181,47545
+Public Safety - Police,Police Sergeant,113086,137457,118557,24799,1862,26661
+Public Safety - Police,Police Sergeant,113086,137457,171630,33033,16175,49208
+Public Safety - Police,Police Sergeant,113086,137457,161792,33576,18609,52185
+Public Safety - Police,Police Sergeant,113086,137457,154901,31957,12239,44196
+Public Safety - Police,Police Sergeant,113086,137457,190713,10648,6683,17331
+Public Safety - Police,Police Sergeant,113086,137457,192775,33576,18589,52165
+Public Safety - Police,Police Sergeant,113086,137457,224345,33834,16175,50009
+Public Safety - Police,Police Sergeant,113086,137457,199410,25722,0,25722
+Public Safety - Police,Police Sergeant,113086,137457,162976,31913,15972,47885
+Public Safety - Police,Police Sergeant,113086,137457,162641,33532,18582,52114
+Public Safety - Police,Police Sergeant,113086,137457,176403,33532,18589,52121
+Public Safety - Police,Police Sergeant,113086,137457,152602,30844,16171,47015
+Public Safety - Police,Police Sergeant,113086,137457,36451,2075,800,2875
+Public Safety - Police,Police Sergeant,113086,137457,167605,29207,0,29207
+Public Safety - Police,Police Sergeant,113086,137457,159130,31913,10015,41928
+Public Safety - Police,Police Sergeant,113086,137457,135788,26392,12867,39259
+Public Safety - Police,Police Sergeant,113086,137457,219816,33576,16175,49751
+Public Safety - Police,Police Sergeant,113086,137457,135332,27972,16175,44147
+Public Safety - Police,Police Sergeant,113086,137457,129763,26309,0,26309
+Public Safety - Police,Police Services Coordinator,56268,68393,73955,5506,12239,17745
+Public Safety - Police,Police Services Coordinator,56268,68393,79549,5506,94,5600
+Public Safety - Police,Police Services Coordinator,56268,68393,75647,8311,11770,20081
+Public Safety - Police,Police Services Specialist,48207,58595,65214,4936,18448,23384
+Public Safety - Police,Police Technician,50925,61900,66577,4990,13077,18067
+Public Safety - Police,Police Technician,50925,61900,65906,4990,18299,23289
+Public Safety - Police,Public Safety Comm Manager,116042,141051,157303,11644,17446,29090
+Public Safety - Police,Public Safety Dispatcher I,56268,68393,68282,6725,0,6725
+Public Safety - Police,Public Safety Dispatcher I,56268,68393,49634,5274,10342,15616
+Public Safety - Police,Public Safety Dispatcher I,56268,68393,3311,355,1047,1402
+Public Safety - Police,Public Safety Dispatcher II,59145,71891,108429,9595,12156,21751
+Public Safety - Police,Public Safety Dispatcher II,59145,71891,95457,8411,12169,20580
+Public Safety - Police,Public Safety Dispatcher II,59145,71891,55425,2394,0,2394
+Public Safety - Police,Public Safety Dispatcher II,59145,71891,112391,6206,12457,18663
+Public Safety - Police,Public Safety Dispatcher II,59145,71891,62255,6614,12493,19107
+Public Safety - Police,Public Safety Dispatcher II,59145,71891,96371,7946,18469,26415
+Public Safety - Police,Public Safety Dispatcher II,59145,71891,84857,7790,13077,20867
+Public Safety - Police,Public Safety Dispatcher II,59145,71891,77876,7716,11500,19216
+Public Safety - Police,Public Safety Dispatcher II,59145,71891,11774,1353,2573,3926
+Public Safety - Police,Public Safety Dispatcher III,65349,79432,100516,6804,12540,19344
+Public Safety - Police,Public Safety Dispatcher III,65349,79432,61517,3473,6041,9514
+Public Safety - Police,Public Safety Dispatcher III,65349,79432,108646,6962,18589,25551
+Public Safety - Police,Public Safety Dispatcher Supervisor,75519,91794,96563,5923,18589,24512
+Public Safety - Police,Public Safety Dispatcher Supervisor,75519,91794,129611,7942,18582,26524
+Public Safety - Police,Public Safety Dispatcher Supervisor,75519,91794,121173,7587,9169,16756
+Public Safety - Police,Restorative Court Liaison,47778,47778,5796,0,0,65
+Public Safety - Police,Senior Network Applications Analyst,87406,106243,154256,8293,15036,23329
+Public Safety - Police,Senior Network Applications Analyst,87406,106243,99873,7536,15007,22543
+Public Safety - Police,Snap Officer,47278,47278,2674,0,0,30
+Public Works,Accounting Assistant,53642,65202,60529,6507,0,6507
+Public Works,Accounting Assistant,53642,65202,24516,0,0,314
+Public Works,Accounting Assistant,53642,65202,20926,216,331,547
+Public Works,Accounting Assistant,53642,65202,22692,1374,3560,4934
+Public Works,Accounting Assistant,53642,65202,67220,5090,15036,20126
+Public Works,Accounting Assistant,53642,65202,54560,4131,12029,16160
+Public Works,Accounting Assistant,53642,65202,5243,288,93,381
+Public Works,Accounting Assistant,53642,65202,21,0,0,0
+Public Works,Accounting Assistant,53642,65202,65948,7694,14991,22685
+Public Works,Accounting Assistant,53642,65202,20221,0,0,258
+Public Works,Accounting Assistant,53642,65202,43245,5072,8962,14034
+Public Works,Accounting Assistant,53642,65202,6815,0,0,89
+Public Works,Administrative Analyst I,76818,93372,89760,6623,15036,21659
+Public Works,Administrative Analyst II,87890,106832,100724,7627,8770,16397
+Public Works,Administrative Analyst II,87890,106832,99548,7319,15036,22355
+Public Works,Administrative Analyst II,87890,106832,108415,12640,15036,27676
+Public Works,Administrative Analyst II,87890,106832,44751,4927,4854,9781
+Public Works,Administrative Analyst III,95191,115706,113168,8287,12867,21154
+Public Works,Administrative Assistant,62924,76484,67526,7575,5792,13367
+Public Works,Administrative Assistant,62924,76484,64471,4864,12156,17020
+Public Works,Administrative Assistant,62924,76484,79004,5970,13268,19238
+Public Works,Administrative Assistant,62924,76484,74182,8619,13077,21696
+Public Works,Administrative Assistant,62924,76484,16194,0,0,209
+Public Works,Administrative Assistant-Conf,62924,76484,66517,7781,7977,15758
+Public Works,Administrative Specialist,47118,57271,62857,6800,0,6800
+Public Works,Administrative Specialist,47118,57271,59097,4470,9862,14332
+Public Works,Administrative Specialist,47118,57271,19797,1134,4073,5207
+Public Works,Administrative Specialist,47118,57271,60123,6817,12867,19684
+Public Works,Administrative Specialist,47118,57271,48524,5155,0,5155
+Public Works,Administrative Specialist,47118,57271,34082,1444,122,1566
+Public Works,Administrative Supervisor,72979,88706,102247,9935,0,9935
+Public Works,Assistant Parking Coordinator,49035,59603,61636,7097,10961,18058
+Public Works,Assistant Parking Coordinator,49035,59603,54765,4120,10961,15081
+Public Works,Assistant Parking Coordinator,49035,59603,59282,4480,12018,16498
+Public Works,Associate Transportation Planner,77975,94780,87687,10086,12189,22275
+Public Works,Associate Transportation Planner,77975,94780,88108,9755,0,9755
+Public Works,Associate Transportation Planner,77975,94780,97033,7296,12247,19543
+Public Works,Automotive Parts Specialist,58974,71683,67406,7857,8335,16192
+Public Works,Automotive Services Writer,68492,83253,76079,8872,12901,21773
+Public Works,Carpenter,60553,73603,63469,7415,14245,21660
+Public Works,Carpenter,60553,73603,85609,5745,15036,20781
+Public Works,City Engineer,149891,182193,211152,14403,0,14403
+Public Works,Clerical Assistant,29120,29120,9238,0,0,120
+Public Works,Clerical Assistant,29120,29120,1319,0,0,17
+Public Works,Control Systems Op Spec I,75564,91847,50868,3625,8965,12590
+Public Works,Control Systems Op Spec I,75564,91847,89571,9887,14526,24413
+Public Works,Control Systems Op Spec I,75564,91847,101751,7271,13077,20348
+Public Works,Control Systems Op Spec I,75564,91847,120712,6528,14913,21441
+Public Works,Control Systems Op Spec I,75564,91847,18590,2222,1977,4199
+Public Works,Control Systems Op Spec II,83935,102024,96266,10483,14533,25016
+Public Works,Cross Connection Specialist,74071,90033,103306,10137,14941,25078
+Public Works,Custodial Supervisor,62230,75642,95356,6002,806,6808
+Public Works,Custodian,42011,51064,49904,3754,8804,12558
+Public Works,Custodian,42011,51064,23490,2221,0,2221
+Public Works,Custodian,42011,51064,55477,4196,12156,16352
+Public Works,Custodian,42011,51064,55581,4201,15036,19237
+Public Works,Custodian,42011,51064,26323,2013,6254,8267
+Public Works,Custodian,42011,51064,55557,4179,12891,17070
+Public Works,Custodian,42011,51064,68215,4264,11720,15984
+Public Works,Custodian,42011,51064,48321,4520,8484,13004
+Public Works,Downtown Ambassador I,34674,34674,11217,0,0,142
+Public Works,Downtown Ambassador I,34674,34674,12451,0,0,161
+Public Works,Downtown Ambassador I,34674,34674,8924,0,0,111
+Public Works,Downtown Ambassador I,34674,34674,8393,0,0,105
+Public Works,Downtown Ambassador I,34674,34674,10664,0,0,136
+Public Works,Downtown Ambassador I,34674,34674,12127,0,0,155
+Public Works,Downtown Ambassador I,34674,34674,12220,0,0,156
+Public Works,Downtown Ambassador I,34674,34674,4762,0,0,62
+Public Works,Downtown Ambassador I,34674,34674,11259,0,0,141
+Public Works,Downtown Ambassador I,34674,34674,11394,0,0,147
+Public Works,Downtown Ambassador I,34674,34674,4572,0,0,58
+Public Works,Downtown Ambassador I,34674,34674,13630,0,0,175
+Public Works,Downtown Ambassador I,34674,34674,15599,0,0,199
+Public Works,Downtown Ambassador I,34674,34674,11948,0,0,153
+Public Works,Downtown Ambassador I,34674,34674,10002,0,0,129
+Public Works,Downtown Ambassador II,47278,47278,16674,0,0,214
+Public Works,Downtown Ambassador II,47278,47278,15710,0,0,190
+Public Works,Downtown Plaza Parking Manager,113047,137409,161935,10697,292,10989
+Public Works,Electrician,64288,78143,86464,8415,0,8415
+Public Works,Electrician,64288,78143,81735,5981,15036,21017
+Public Works,Electronics Comm Supervisor,85515,103945,143704,9599,0,9599
+Public Works,Electronics Comm Technician I,61395,74626,21209,1401,1568,2969
+Public Works,Electronics Comm Technician II,67498,82044,84990,6425,15036,21461
+Public Works,Electronics Comm Technician II,67498,82044,84732,6425,12780,19205
+Public Works,Electronics Comm Technician II,67498,82044,38519,4330,0,4330
+Public Works,Electronics Technician II,64288,78143,84345,6120,15036,21156
+Public Works,Engineering Technician I,55161,67049,20886,0,0,272
+Public Works,Engineering Technician I,55161,67049,4271,0,0,48
+Public Works,Engineering Technician I,55161,67049,21948,0,0,281
+Public Works,Engineering Technician I,55161,67049,21542,0,0,280
+Public Works,Engineering Technician I,55161,67049,26658,3080,0,3080
+Public Works,Engineering Technician I,55161,67049,21206,0,0,273
+Public Works,Engineering Technician II,60644,73713,66961,7286,0,7286
+Public Works,Engineering Technician II,60644,73713,75995,5754,12867,18621
+Public Works,Engineering Technician II,60644,73713,70987,8277,12457,20734
+Public Works,Engineering Technician II,60644,73713,7488,0,0,94
+Public Works,Engineering Technician II,60644,73713,34327,0,0,441
+Public Works,Environmental Services Spec II,84875,103166,106360,8053,15036,23089
+Public Works,Facilities Maintenance Supervisor,81443,98995,107911,7849,12455,20304
+Public Works,Facilities Maintenance Supervisor,81443,98995,122178,7828,0,7828
+Public Works,Facilities Maintenance Worker II,49527,60200,64673,4850,12523,17373
+Public Works,Facilities Maintenance Worker II,49527,60200,62092,4720,12588,17308
+Public Works,Facilities Manager,118602,144162,122439,13597,12573,26170
+Public Works,Fleet Services Manager,102414,124485,150223,9808,0,9808
+Public Works,Fleet Services Supervisor,83916,102001,121187,12413,2174,14587
+Public Works,Fleet Services Technician I,58974,71683,45274,5140,10531,15671
+Public Works,Fleet Services Technician I,58974,71683,75708,5616,14622,20238
+Public Works,Fleet Services Technician I,58974,71683,61964,7022,8804,15826
+Public Works,Fleet Services Technician I,58974,71683,42765,4746,8888,13634
+Public Works,Fleet Services Technician II,65160,79202,79026,9033,15036,24069
+Public Works,Fleet Services Technician II,65160,79202,69478,7903,11338,19241
+Public Works,Fleet Services Technician II,65160,79202,82694,9318,12475,21793
+Public Works,Grounds Maintenance Asst I,29120,29120,1458,0,0,19
+Public Works,Grounds Maintenance Asst I,29120,29120,2198,0,0,24
+Public Works,Grounds Maintenance Asst I,29120,29120,10700,0,0,138
+Public Works,Grounds Maintenance Asst I,29120,29120,2930,0,0,37
+Public Works,Grounds Maintenance Asst I,29120,29120,2673,0,0,35
+Public Works,Grounds Maintenance Asst II,30243,30243,10160,0,0,128
+Public Works,Grounds Maintenance Asst II,30243,30243,14949,0,0,189
+Public Works,Grounds Maintenance Asst II,30243,30243,2256,0,0,29
+Public Works,Grounds Maintenance Asst II,30243,30243,14560,0,0,184
+Public Works,Grounds Maintenance Asst II,30243,30243,14447,0,0,183
+Public Works,Grounds Maintenance Asst II,30243,30243,9629,1030,0,1030
+Public Works,Laboratory Analyst Coordinator,78092,94921,97690,7397,13383,20780
+Public Works,Laboratory Analyst I,64293,78149,80488,9302,12247,21549
+Public Works,Laboratory Analyst I,64293,78149,41490,1083,933,2016
+Public Works,Laboratory Analyst I,64293,78149,68127,7938,8804,16742
+Public Works,Laboratory Analyst II,71348,86724,83635,9745,11946,21691
+Public Works,Laboratory Analyst II,71348,86724,85691,9994,14941,24935
+Public Works,Laboratory Analyst II,71348,86724,76555,5455,10143,15598
+Public Works,Lead Equipment Technician,71995,87510,95106,6851,1543,8394
+Public Works,Lead Meter Reader Water Dist Oit,53298,64785,77139,5057,15084,20141
+Public Works,Lot Operator,29120,29120,11438,0,0,146
+Public Works,Lot Operator,29120,29120,4589,0,0,52
+Public Works,Lot Operator,29120,29120,4576,0,0,58
+Public Works,Lot Operator,29120,29120,5710,0,0,69
+Public Works,Lot Operator,29120,29120,5565,0,0,65
+Public Works,Lot Operator,29120,29120,7331,0,0,94
+Public Works,Lot Operator,29120,29120,3859,0,0,47
+Public Works,Lot Operator,29120,29120,2010,0,0,26
+Public Works,Lot Operator,29120,29120,9885,0,0,129
+Public Works,Lot Operator,29120,29120,10459,0,0,135
+Public Works,Lot Operator,29120,29120,11399,0,0,143
+Public Works,Lot Operator,29120,29120,4050,0,0,47
+Public Works,Lot Operator,29120,29120,8762,0,0,107
+Public Works,Lot Operator,29120,29120,11964,0,0,152
+Public Works,Lot Operator,29120,29120,11753,0,0,152
+Public Works,Lot Operator,29120,29120,1417,0,0,15
+Public Works,Lot Operator,29120,29120,2939,0,0,31
+Public Works,Lot Operator,29120,29120,1950,0,0,25
+Public Works,Lot Operator,29120,29120,1346,0,0,17
+Public Works,Lot Operator,29120,29120,3299,0,0,38
+Public Works,Lot Operator,29120,29120,3071,0,0,35
+Public Works,Lot Operator,29120,29120,3095,0,0,38
+Public Works,Lot Operator,29120,29120,3785,0,0,47
+Public Works,Lot Operator,29120,29120,1905,0,0,19
+Public Works,Lot Operator,29120,29120,2273,0,0,30
+Public Works,Lot Operator,29120,29120,4537,0,0,53
+Public Works,Lot Operator,29120,29120,10526,0,0,134
+Public Works,Lot Operator,29120,29120,9462,0,0,117
+Public Works,Lot Operator,29120,29120,3026,0,0,37
+Public Works,Lot Operator,29120,29120,3261,0,0,39
+Public Works,Lot Operator,29120,29120,4093,0,0,48
+Public Works,Lot Operator,29120,29120,3581,0,0,42
+Public Works,Lot Operator,29120,29120,2438,0,0,32
+Public Works,Lot Operator,29120,29120,9314,0,0,113
+Public Works,Lot Operator,29120,29120,933,0,0,10
+Public Works,Lot Operator,29120,29120,12538,0,0,158
+Public Works,Lot Operator,29120,29120,9874,0,0,126
+Public Works,Lot Operator,29120,29120,2369,0,0,31
+Public Works,Lot Operator,29120,29120,9678,0,0,119
+Public Works,Lot Operator,29120,29120,4162,0,0,46
+Public Works,Lot Operator,29120,29120,11454,0,0,145
+Public Works,Lot Operator,29120,29120,9634,0,0,121
+Public Works,Lot Operator,29120,29120,8522,0,0,111
+Public Works,Lot Operator,29120,29120,3737,0,0,45
+Public Works,Lot Operator,29120,29120,8200,0,0,103
+Public Works,Lot Operator,29120,29120,264,0,0,3
+Public Works,Lot Operator,29120,29120,12149,0,0,154
+Public Works,Lot Operator,29120,29120,4229,0,0,53
+Public Works,Lot Operator,29120,29120,4132,0,0,52
+Public Works,Lot Operator,29120,29120,4455,301,0,301
+Public Works,Lot Operator,29120,29120,6749,0,0,87
+Public Works,Lot Operator,29120,29120,1508,0,0,20
+Public Works,Lot Operator,29120,29120,390,0,0,3
+Public Works,Lot Operator,29120,29120,9036,0,0,116
+Public Works,Lot Operator,29120,29120,1641,0,0,21
+Public Works,Lot Operator,29120,29120,2754,0,0,36
+Public Works,Lot Operator,29120,29120,7095,0,0,89
+Public Works,Lot Operator,29120,29120,3440,0,0,41
+Public Works,Lot Operator,29120,29120,3375,0,0,42
+Public Works,Lot Operator,29120,29120,3143,0,0,37
+Public Works,Lot Operator,29120,29120,6111,0,0,78
+Public Works,Lot Operator,29120,29120,8943,0,0,113
+Public Works,Lot Operator,29120,29120,107,0,0,1
+Public Works,Lot Operator,29120,29120,1727,0,0,21
+Public Works,Lot Operator,29120,29120,100,0,0,0
+Public Works,Lot Operator,29120,29120,3139,0,0,40
+Public Works,Lot Operator,29120,29120,4674,0,0,57
+Public Works,Lot Operator,29120,29120,7981,0,0,100
+Public Works,Lot Operator,29120,29120,4270,0,0,52
+Public Works,Lot Operator,29120,29120,1755,0,0,23
+Public Works,Lot Operator,29120,29120,4165,0,0,54
+Public Works,Lot Operator,29120,29120,4180,0,0,51
+Public Works,Lot Operator,29120,29120,3498,0,0,44
+Public Works,Lot Operator,29120,29120,11266,0,0,142
+Public Works,Lot Operator,29120,29120,10850,0,0,137
+Public Works,Lot Operator,29120,29120,3110,0,0,39
+Public Works,Lot Operator,29120,29120,5384,0,0,67
+Public Works,Lot Operator,29120,29120,4054,0,0,49
+Public Works,Lot Operator,29120,29120,9180,0,0,113
+Public Works,Lot Operator,29120,29120,2283,0,0,28
+Public Works,Lot Operator,29120,29120,1466,0,0,18
+Public Works,Lot Operator,29120,29120,8859,0,0,112
+Public Works,Lot Operator,29120,29120,3814,0,0,47
+Public Works,Lot Operator,29120,29120,3809,0,0,47
+Public Works,Lot Operator,29120,29120,7797,0,0,101
+Public Works,Lot Operator,29120,29120,13078,0,0,166
+Public Works,Lot Operator,29120,29120,4175,0,0,53
+Public Works,Lot Operator,29120,29120,801,0,0,10
+Public Works,Lot Operator,29120,29120,9605,0,0,125
+Public Works,Lot Operator,29120,29120,3687,0,0,47
+Public Works,Lot Operator,29120,29120,2965,0,0,39
+Public Works,Lot Operator,29120,29120,3192,0,0,40
+Public Works,Lot Operator,29120,29120,9257,0,0,119
+Public Works,Lot Operator,29120,29120,9605,0,0,124
+Public Works,Lot Operator,29120,29120,5073,0,0,65
+Public Works,Lot Operator,29120,29120,8393,0,0,108
+Public Works,Lot Operator,29120,29120,10625,0,0,136
+Public Works,Lot Operator,29120,29120,4610,0,0,59
+Public Works,Lot Operator,29120,29120,3480,0,0,44
+Public Works,Lot Operator,29120,29120,731,0,0,10
+Public Works,Lot Operator,29120,29120,5499,0,0,71
+Public Works,Lot Operator,29120,29120,6572,0,0,85
+Public Works,Lot Operator,29120,29120,2139,0,0,28
+Public Works,Lot Operator,29120,29120,1775,0,0,23
+Public Works,Lot Operator,29120,29120,2700,0,0,34
+Public Works,Lot Operator,29120,29120,819,0,0,11
+Public Works,Lot Operator,29120,29120,1164,0,0,15
+Public Works,Lot Operator,29120,29120,3546,0,0,46
+Public Works,Lot Operator,29120,29120,637,0,0,8
+Public Works,Lot Operator,29120,29120,403,0,0,5
+Public Works,Lot Operator,29120,29120,6311,0,0,81
+Public Works,Lot Operator,29120,29120,5121,0,0,65
+Public Works,Lot Operator,29120,29120,855,0,0,11
+Public Works,Lot Operator,29120,29120,150,0,0,2
+Public Works,Maintenance Crew Leader,55547,67518,73832,5291,12642,17933
+Public Works,Maintenance Crew Leader,55547,67518,71301,5352,15036,20388
+Public Works,Maintenance Supervisor I,72275,87850,135892,5809,16921,22730
+Public Works,Maintenance Supervisor II,79459,96582,104368,7657,16826,24483
+Public Works,Maintenance Worker I,42011,51064,5685,0,0,74
+Public Works,Maintenance Worker I,42011,51064,630,0,0,5
+Public Works,Maintenance Worker I,42011,51064,3870,0,0,48
+Public Works,Maintenance Worker I,42011,51064,847,0,0,11
+Public Works,Maintenance Worker II,47118,57271,65071,4491,0,4491
+Public Works,Maintenance Worker II,47118,57271,59591,4529,12490,17019
+Public Works,Maintenance Worker II,47118,57271,22068,1221,4210,5431
+Public Works,Maintenance Worker II,47118,57271,61031,4567,15036,19603
+Public Works,Maintenance Worker II,47118,57271,60597,6925,12867,19792
+Public Works,Maintenance Worker II,47118,57271,58331,6753,13110,19863
+Public Works,Management Intern IV,31304,31304,1392,0,0,18
+Public Works,Management Intern IV,31304,31304,2145,0,0,24
+Public Works,Meter Reader,45406,45406,4853,0,0,59
+Public Works,Meter Reader,45406,45406,30281,0,0,390
+Public Works,Meter Reader,45406,45406,30622,0,0,394
+Public Works,Meter Reader,45406,45406,28548,0,0,362
+Public Works,Meter Reader Water Dist Oit,48480,58927,62647,4707,12428,17135
+Public Works,Office Specialist I,38983,47383,17240,0,0,222
+Public Works,Office Specialist I,38983,47383,17623,0,0,227
+Public Works,Office Specialist I,38983,47383,14625,0,0,189
+Public Works,Office Specialist I,38983,47383,18866,0,0,240
+Public Works,Office Specialist I,38983,47383,12769,0,0,163
+Public Works,Office Specialist I,38983,47383,13214,0,0,172
+Public Works,Office Specialist I,38983,47383,17409,0,0,221
+Public Works,Office Specialist I,38983,47383,15075,1121,0,1121
+Public Works,Office Specialist I,38983,47383,7823,0,0,92
+Public Works,Office Specialist I,38983,47383,16930,0,0,216
+Public Works,Office Specialist II,42858,52093,601,0,0,4
+Public Works,Office Specialist II,42858,52093,4485,0,0,57
+Public Works,Painter,58575,71198,75487,7834,0,7834
+Public Works,Painter,58575,71198,73669,8555,15017,23572
+Public Works,Parking Coordinator,62611,76104,78339,5588,0,5588
+Public Works,Parking Coordinator,62611,76104,78844,5961,13478,19439
+Public Works,Parking Coordinator,62611,76104,78760,5963,13077,19040
+Public Works,Parking Maintenance Coordinator,60462,73493,78552,5737,15036,20773
+Public Works,Parking Resources Specialist,69178,84087,74320,7947,0,7947
+Public Works,Parking Supervisor,79555,96700,99960,7317,13763,21080
+Public Works,Parking Supervisor,79555,96700,98343,10932,12417,23349
+Public Works,Plumber,62082,75462,78946,5911,12490,18401
+Public Works,Plumber,62082,75462,78081,5911,12523,18434
+Public Works,Principal Engineer,124553,151395,165301,11903,12867,24770
+Public Works,Principal Engineer,124553,151395,161866,11903,16302,28205
+Public Works,Principal Engineer,124553,151395,156433,11826,20692,32518
+Public Works,Principal Project Manager,124553,151395,178168,17753,0,17753
+Public Works,Principal Traffic Engineer,124553,151395,178168,11903,0,11903
+Public Works,Project Engineer I,77201,93839,84351,9456,1603,11059
+Public Works,Project Engineer I,77201,93839,91922,10701,12867,23568
+Public Works,Project Engineer I,77201,93839,82016,9564,12867,22431
+Public Works,Project Engineer I,77201,93839,85187,9926,12457,22383
+Public Works,Project Engineer I,77201,93839,88438,9759,0,9759
+Public Works,Project Engineer I,77201,93839,125093,7325,15036,22361
+Public Works,Project Engineer I,77201,93839,47586,2774,5221,7995
+Public Works,Project Engineer I,77201,93839,86585,6271,760,7031
+Public Works,Project Engineer I,77201,93839,84329,9796,13077,22873
+Public Works,Project Engineer I,77201,93839,80037,9329,8804,18133
+Public Works,Project Engineer I,77201,93839,83690,9228,0,9228
+Public Works,Project Engineer II,84875,103166,110904,8397,15036,23433
+Public Works,Project Engineer II,84875,103166,107266,8053,12867,20920
+Public Works,Project Engineer II,84875,103166,109694,8305,13077,21382
+Public Works,Project Engineer II,84875,103166,111678,13016,12516,25532
+Public Works,Project Engineer II,84875,103166,102147,11917,8785,20702
+Public Works,Project Engineer II,84875,103166,113432,13217,13077,26294
+Public Works,Project Manager I,90126,90126,8861,1024,0,1024
+Public Works,Project Planner,83614,101634,97138,7357,14134,21491
+Public Works,Project Planner,83614,101634,1222,85,601,686
+Public Works,Project Planner,83614,101634,16753,2003,2406,4409
+Public Works,Public Works Business Manager,109475,133067,138199,10462,20861,31323
+Public Works,Public Works Inspector I,63395,77057,7019,0,0,85
+Public Works,Public Works Inspector II,71814,87289,20346,2092,0,2092
+Public Works,Public Works Inspector II,71814,87289,78861,5808,12867,18675
+Public Works,Public Works Operations Asst,49035,59603,57623,6718,15036,21754
+Public Works,Reservoir Dam Caretaker Dist Opr,65364,79449,95406,6163,14941,21104
+Public Works,School Crossing Guard I,29120,29120,2681,0,0,33
+Public Works,School Crossing Guard I,29120,29120,2425,0,0,29
+Public Works,School Crossing Guard I,29120,29120,2604,0,0,33
+Public Works,School Crossing Guard I,29120,29120,2397,0,0,29
+Public Works,School Crossing Guard I,29120,29120,3294,0,0,33
+Public Works,School Crossing Guard I,29120,29120,3364,0,0,39
+Public Works,School Crossing Guard I,29120,29120,3629,0,0,47
+Public Works,School Crossing Guard I,29120,29120,3294,0,0,33
+Public Works,School Crossing Guard I,29120,29120,2228,0,0,29
+Public Works,School Crossing Guard I,29120,29120,2033,0,0,26
+Public Works,School Crossing Guard I,29120,29120,1296,0,0,17
+Public Works,School Crossing Guard I,29120,29120,525,0,0,7
+Public Works,School Crossing Guard II,29203,29203,3760,0,0,40
+Public Works,School Crossing Guard II,29203,29203,3366,0,0,39
+Public Works,Senior Control Systems Opr Spec,91899,111704,118307,8660,0,8660
+Public Works,Senior Control Systems Opr Spec,91899,111704,125055,13297,0,13297
+Public Works,Senior Cross Connection Specialist,77569,94285,105610,7648,15007,22655
+Public Works,Senior Custodian,44380,53944,26721,2026,8145,10171
+Public Works,Senior Custodian,44380,53944,55637,4233,12305,16538
+Public Works,Senior Custodian,44380,53944,66001,4670,346,5016
+Public Works,Senior Electronics Comm Tech,72379,87978,90702,6888,12553,19441
+Public Works,Senior Electronics Comm Tech,72379,87978,106626,6867,12523,19390
+Public Works,Senior Engineering Technician,69041,83920,86518,6551,12523,19074
+Public Works,Senior Engineering Technician,69041,83920,79964,6047,15036,21083
+Public Works,Senior Engineering Technician,69041,83920,4214,0,0,0
+Public Works,Senior Engineering Technician,69041,83920,49704,0,0,642
+Public Works,Senior Maintenance Worker,52845,64233,67079,5034,12523,17557
+Public Works,Senior Planner I,96157,116880,117399,7679,0,7679
+Public Works,Senior Public Works Inspector,79346,96446,87495,10202,13077,23279
+Public Works,Senior Public Works Inspector,79346,96446,102777,7549,3706,11255
+Public Works,Senior Public Works Inspector,79346,96446,102275,7765,12553,20318
+Public Works,Senior Real Property Agent,89215,108442,97400,7339,11029,18368
+Public Works,Senior Real Property Agent,89215,108442,84393,6384,9862,16246
+Public Works,Senior Streets Maintenance Worker,54723,66516,77867,5213,0,5213
+Public Works,Senior Streets Maintenance Worker,54723,66516,75470,5360,0,5360
+Public Works,Senior Streets Maintenance Worker,54723,66516,73494,5213,12553,17766
+Public Works,Senior Streets Maintenance Worker,54723,66516,76758,5401,0,5401
+Public Works,Senior Traffic Signal Technician,68938,83795,96651,6561,12867,19428
+Public Works,Senior Treatment Plant Technician,72608,88255,94771,6949,14941,21890
+Public Works,Senior Treatment Plant Technician,72608,88255,94659,6846,12484,19330
+Public Works,Senior Ww Coll Sys Outreach Program Coordinator,85705,104175,93767,10340,12457,22797
+Public Works,Senior Ww Collection System Opr,60372,73383,65477,5521,14941,20462
+Public Works,Senior Ww Collection System Opr,60372,73383,85043,5675,14941,20616
+Public Works,Senior Ww Collection System Opr,60372,73383,74580,5650,11956,17606
+Public Works,Senior Ww Treatment Plant Operator,81421,98968,108230,7675,116,7791
+Public Works,Senior Ww Treatment Plant Operator,81421,98968,92692,7040,14941,21981
+Public Works,Streets Maintenance Coordinator,60462,73493,76086,5757,15036,20793
+Public Works,Streets Maintenance Coordinator,60462,73493,76763,5707,15036,20743
+Public Works,Streets Maintenance Crew Leader,57521,69917,74046,6852,8804,15656
+Public Works,Streets Maintenance Crew Leader,57521,69917,81043,5478,12590,18068
+Public Works,Streets Maintenance Crew Leader,57521,69917,69895,5272,14195,19467
+Public Works,Streets Maintenance Worker II,49527,60200,65531,6153,0,6153
+Public Works,Streets Maintenance Worker II,49527,60200,61377,6539,15035,21574
+Public Works,Streets Maintenance Worker II,49527,60200,60309,6440,1033,7473
+Public Works,Streets Maintenance Worker II,49527,60200,56860,6534,15036,21570
+Public Works,Streets Maintenance Worker II,49527,60200,51935,5720,12630,18350
+Public Works,Streets Maintenance Worker II,49527,60200,21650,3568,9623,13191
+Public Works,Streets Maintenance Worker II,49527,60200,14,0,0,0
+Public Works,Streets Maintenance Worker II,49527,60200,62323,4720,12189,16909
+Public Works,Streets Maintenance Worker II,49527,60200,66588,4720,5,4725
+Public Works,Streets Maintenance Worker II,49527,60200,61319,7207,12156,19363
+Public Works,Streets Maintenance Worker II,49527,60200,42707,4819,11100,15919
+Public Works,Streets Maintenance Worker II,49527,60200,4333,0,0,0
+Public Works,Streets Maintenance Worker II,49527,60200,68555,7233,13884,21117
+Public Works,Streets Maintenance Worker II,49527,60200,59909,6153,12156,18309
+Public Works,Streets Maintenance Worker II,49527,60200,13299,1292,3209,4501
+Public Works,Streets Maintenance Worker II,49527,60200,48905,4858,10028,14886
+Public Works,Streets Maintenance Worker II,49527,60200,35679,0,0,453
+Public Works,Streets Maintenance Worker II,49527,60200,35251,0,0,454
+Public Works,Streets Operations Infra Manager,130762,158942,184642,12497,1364,13861
+Public Works,Supervising Engineer,108772,132213,118550,7051,11386,18437
+Public Works,Supervising Engineer,108772,132213,134193,9844,12651,22495
+Public Works,Supervising Engineer,108772,132213,128357,9395,12545,21940
+Public Works,Supervising Engineer,108772,132213,144973,10976,16826,27802
+Public Works,Supervising Engineer,108772,132213,118402,8941,16608,25549
+Public Works,Supervising Engineer,108772,132213,152103,15832,559,16391
+Public Works,Supervising Engineer,108772,132213,135160,9903,12454,22357
+Public Works,Supervising Trans Engineer,109812,133477,134844,14808,9034,23842
+Public Works,Supervising Trans Planner,99919,121452,135307,8904,0,8904
+Public Works,Traffic Signal Technician II,64288,78143,97158,6100,15036,21136
+Public Works,Traffic Technician II,59863,72763,70611,5348,13077,18425
+Public Works,Traffic Technician II,59863,72763,75360,5682,12189,17871
+Public Works,Transportation Planning Pkg Manager,124553,151395,157896,11645,16851,28496
+Public Works,Treatment Plant Technician,66043,80276,89596,9556,0,9556
+Public Works,Treatment Plant Technician,66043,80276,65378,6968,11029,17997
+Public Works,Treatment Plant Technician,66043,80276,72271,5311,12189,17500
+Public Works,Treatment Plant Technician Sup,105684,128460,149059,9930,14833,24763
+Public Works,Utility Worker I,40331,40331,3736,0,0,45
+Public Works,Utility Worker I,40331,40331,31427,0,0,406
+Public Works,Utility Worker I,40331,40331,10897,0,0,142
+Public Works,Vehicle Services Assistant,44602,54214,57422,6514,11823,18337
+Public Works,Water Conservation Supervisor,95057,115543,130316,8687,1234,9921
+Public Works,Water Distribution Chief Opr,91899,111704,136160,7960,14533,22493
+Public Works,Water Distribution Lead Op Tch,76321,92768,114586,6858,12867,19725
+Public Works,Water Distribution Lead Op Tch,76321,92768,90215,6616,14912,21528
+Public Works,Water Distribution Op Tech I,62829,76369,84822,7309,14941,22250
+Public Works,Water Distribution Op Tech I,62829,76369,68686,6210,87,6297
+Public Works,Water Distribution Op Tech I,62829,76369,80284,5630,1066,6696
+Public Works,Water Distribution Op Tech I,62829,76369,97037,5628,12489,18117
+Public Works,Water Distribution Op Tech I,62829,76369,102875,5648,13105,18753
+Public Works,Water Distribution Op Tech I,62829,76369,74903,6208,0,6208
+Public Works,Water Distribution Op Tech II,69075,83961,85858,7450,11946,19396
+Public Works,Water Distribution Op Tech II,69075,83961,121325,6500,14941,21441
+Public Works,Water Distribution Op Tech II,69075,83961,102447,6187,14941,21128
+Public Works,Water Distribution Op Tech II,69075,83961,187878,6703,12484,19187
+Public Works,Water Distribution Op Tech II,69075,83961,107730,6514,14941,21455
+Public Works,Water Distribution Op Tech II,69075,83961,121644,6512,12428,18940
+Public Works,Water Distribution Op Tech Oit,55528,67494,57869,6089,8804,14893
+Public Works,Water Distribution Op Tech Oit,55528,67494,63189,3902,9394,13296
+Public Works,Water Distribution Op Tech Oit,55528,67494,43907,4603,11296,15899
+Public Works,Water Distribution Op Tech Oit,55528,67494,44282,4701,8880,13581
+Public Works,Water Distribution Op Tech Oit,55528,67494,44013,4606,9990,14596
+Public Works,Water Distribution Op Tech Oit,55528,67494,38322,4063,7966,12029
+Public Works,Water Distribution Opr I,51447,62534,63878,4857,14912,19769
+Public Works,Water Distribution Opr I,51447,62534,63878,4857,10073,14930
+Public Works,Water Distribution Opr I,51447,62534,63878,7444,9862,17306
+Public Works,Water Distribution Project Coordinator,76329,92778,98889,9137,12867,22004
+Public Works,Water Distribution Project Coordinator,76329,92778,99649,6557,9862,16419
+Public Works,Water Distribution Supervisor,105684,128460,169918,10074,16826,26900
+Public Works,Water Distribution Supervisor,105684,128460,139757,9635,12849,22484
+Public Works,Water Distribution Supt,123679,150334,138127,10152,16347,26499
+Public Works,Water Quality Superintendent,123679,150334,132163,9303,16826,26129
+Public Works,Water Resources Manager,162228,197190,209114,15504,16610,32114
+Public Works,Water Resources Specialist,75677,91985,63222,6959,270,7229
+Public Works,Water Resources Specialist,75677,91985,76245,5774,11220,16994
+Public Works,Water Resources Specialist,75677,91985,92805,10822,12867,23689
+Public Works,Water Resources Technician,59269,72041,6283,715,0,715
+Public Works,Water Resources Technician,59269,72041,5552,0,0,62
+Public Works,Water Resources Technician,59269,72041,5040,0,0,63
+Public Works,Water Resources Technician,59269,72041,44564,0,0,575
+Public Works,Water Resources Technician,59269,72041,11391,0,0,148
+Public Works,Water Services Manager,141084,171488,179474,13483,19560,33043
+Public Works,Water System Manager,141084,171488,186007,12723,0,12723
+Public Works,Water Treatment Chief Operator,91899,111704,114580,7915,14533,22448
+Public Works,Water Treatment Plant Opr III,79944,97172,85748,9771,13588,23359
+Public Works,Water Treatment Plant Opr III,79944,97172,89292,9473,12867,22340
+Public Works,Water Treatment Plant Opr III,79944,97172,82528,8678,11946,20624
+Public Works,Water Treatment Plant Opr III,79944,97172,94005,7291,14608,21899
+Public Works,Water Treatment Plant Opr III,79944,97172,95527,7562,14941,22503
+Public Works,Water Treatment Plant Opr III,79944,97172,109383,7536,14641,22177
+Public Works,Water Treatment Plant Opr III,79944,97172,99297,7121,9008,16129
+Public Works,Water Treatment Plant Opr III,79944,97172,101849,10963,14941,25904
+Public Works,Water Treatment Plant Opr III,79944,97172,22875,1434,1345,2779
+Public Works,Water Treatment Superintendent,123679,150334,164192,11908,16512,28420
+Public Works,Water Treatment Superintendent,123679,150334,6597,0,0,0
+Public Works,Water Treatment Supervisor,105684,128460,134763,9613,12071,21684
+Public Works,Water Ww Maintenance Planner Scheduler,83489,101481,87649,10165,9862,20027
+Public Works,Water Ww Maintenance Planner Scheduler,83489,101481,105291,7867,14941,22808
+Public Works,Water Ww Maintenance Planner Scheduler,83489,101481,95254,7206,12867,20073
+Public Works,Water Ww Maintenance Planner Scheduler,83489,101481,98492,11365,12484,23849
+Public Works,Water Ww Maintenance Planner Scheduler,83489,101481,75442,8799,11522,20321
+Public Works,Welder Fabricator,59654,72510,65419,7627,13077,20704
+Public Works,Welder Fabricator,59654,72510,70226,5316,12936,18252
+Public Works,Ww Collection System Lead Opr,66373,80676,92078,6446,14941,21387
+Public Works,Ww Collection System Opr I,49949,60713,59917,3986,15036,19022
+Public Works,Ww Collection System Opr I,49949,60713,3959,449,0,449
+Public Works,Ww Collection System Opr I,49949,60713,47299,0,0,610
+Public Works,Ww Collection System Opr I,49949,60713,44097,5008,9332,14340
+Public Works,Ww Collection System Opr I,49949,60713,18429,0,0,238
+Public Works,Ww Collection System Opr II,54914,66748,80161,5183,12184,17367
+Public Works,Ww Collection System Opr II,54914,66748,35248,3287,8211,11498
+Public Works,Ww Collection System Opr II,54914,66748,64174,5046,14941,19987
+Public Works,Ww Collection System Opr II,54914,66748,66499,6509,12247,18756
+Public Works,Ww Collection System Opr II,54914,66748,52916,4768,8935,13703
+Public Works,Ww Collection System Opr II,54914,66748,33312,3720,8367,12087
+Public Works,Ww Collection System Project Coordinator,76329,92778,75924,7396,12247,19643
+Public Works,Ww Collection System Project Coordinator,76329,92778,94808,7196,12840,20036
+Public Works,Ww Collection System Project Coordinator,76329,92778,80383,6065,14941,21006
+Public Works,Ww Collection System Supervisor,97424,118420,137137,8788,506,9294
+Public Works,Ww Collection System Supt,123679,150334,164633,11238,1364,12602
+Public Works,Ww Compliance Specialist,64033,77833,81109,6003,0,6003
+Public Works,Ww System Manager,141084,171488,162269,12182,19560,31742
+Public Works,Ww Treatment Plant Chief Opr,90216,109658,119042,8160,12867,21027
+Public Works,Ww Treatment Plant Opr III,74059,90020,84703,9761,8335,18096
+Public Works,Ww Treatment Plant Opr III,74059,90020,83480,9651,12867,22518
+Public Works,Ww Treatment Plant Opr III,74059,90020,74415,8616,11946,20562
+Public Works,Ww Treatment Plant Opr III,74059,90020,24292,3229,6498,9727
+Public Works,Ww Treatment Plant Opr III,74059,90020,94301,7139,12867,20006
+Public Works,Ww Treatment Plant Opr III,74059,90020,95068,7193,12428,19621
+Public Works,Ww Treatment Plant Opr III,74059,90020,96184,7181,7711,14892
+Public Works,Ww Treatment Plant Opr III,74059,90020,97097,7036,14941,21977
+Public Works,Ww Treatment Plant Opr III,74059,90020,94859,7172,13143,20315
+Public Works,Ww Treatment Plant Opr III,74059,90020,94690,7166,8335,15501
+Public Works,Ww Treatment Plant Opr III,74059,90020,100031,10715,14925,25640
+Public Works,Ww Treatment Plant Opr III,74059,90020,92295,10513,12867,23380
+Public Works,Ww Treatment Plant Opr III,74059,90020,70803,8225,12178,20403
+Public Works,Ww Treatment Superintendent,123679,150334,178680,11908,6446,18354
+Public Works,Ww Treatment Supervisor,103748,126107,133489,9497,14767,24264
+Public Works,Zlot Operator IV,27622,27622,337,0,0,4
+Public Works,Zlot Operator IV,27622,27622,8854,0,0,108
+Public Works,Zlot Operator IV,27622,27622,4495,0,0,52
+Public Works,Zlot Operator IV,27622,27622,3567,0,0,44
+Public Works,Zlot Operator IV,27622,27622,7539,0,0,94
+Public Works,Zlot Operator IV,27622,27622,2632,0,0,34
+Public Works,Zlot Operator IV,27622,27622,844,0,0,10
+Public Works,Zlot Operator IV,27622,27622,4662,0,0,56
+Public Works,Zlot Operator IV,27622,27622,6581,0,0,79
+Public Works,Zlot Operator IV,27622,27622,378,0,0,5
+Public Works,Zlot Operator IV,27622,27622,11738,0,0,149
+Public Works,Zlot Operator IV,27622,27622,2990,0,0,34
+Public Works,Zlot Operator IV,27622,27622,11508,0,0,138
+Public Works,Zlot Operator IV,27622,27622,2966,0,0,35
+Public Works,Zlot Operator IV,27622,27622,8417,0,0,104
+Public Works,Zlot Operator IV,27622,27622,7851,0,0,100
+Sustainability And Resilience,Administrative Specialist,47118,57271,53148,6190,6254,12444
+Sustainability And Resilience,Code Enforcement Officer,64513,78415,59410,4498,9404,13902
+Sustainability And Resilience,Energy And Climate Program Manager,109475,133067,124274,9235,15631,24866
+Sustainability And Resilience,Energy And Climate Specialist,76818,93372,41827,1478,0,1478
+Sustainability And Resilience,Environmental Services Manager,109475,133067,147119,16102,12017,28119
+Sustainability And Resilience,Environmental Services Spec I,76818,93372,87102,10164,11946,22110
+Sustainability And Resilience,Environmental Services Spec II,84875,103166,101813,11432,2406,13838
+Sustainability And Resilience,Environmental Services Spec II,84875,103166,92392,10770,12867,23637
+Sustainability And Resilience,Environmental Services Supervisor,94116,114399,108741,8234,15822,24056
+Sustainability And Resilience,Management Intern IV,31304,31304,452,0,0,6
+Sustainability And Resilience,Recycling Educator,59269,72041,71728,8259,11927,20186
+Sustainability And Resilience,Recycling Educator,59269,72041,72423,5476,15036,20512
+Waterfront,Accounting Assistant,53642,65202,68948,8036,12867,20903
+Waterfront,Administrative Analyst I,76818,93372,97882,7288,15036,22324
+Waterfront,Administrative Assistant-Conf,62924,76484,73447,8226,12867,21093
+Waterfront,Administrative Specialist,47118,57271,45449,5218,9120,14338
+Waterfront,Administrative Specialist,47118,57271,55290,3992,12138,16130
+Waterfront,Administrative Specialist,47118,57271,23949,2444,4423,6867
+Waterfront,Administrative Supervisor,72979,88706,93218,5976,12570,18546
+Waterfront,Assistant Parking Coordinator,49035,59603,64519,6645,760,7405
+Waterfront,Billing Supervisor,76711,93243,97333,6248,16826,23074
+Waterfront,Engineering Technician II,60644,73713,49967,3572,6884,10456
+Waterfront,Harbor Operations Assistant,49035,59603,57867,6222,41,6263
+Waterfront,Harbor Operations Manager,113047,137409,147931,25164,16512,41676
+Waterfront,Harbor Patrol Crew I,29120,29120,4394,0,0,57
+Waterfront,Harbor Patrol Crew II,29619,29619,3556,0,0,46
+Waterfront,Harbor Patrol Crew II,29619,29619,1282,0,0,17
+Waterfront,Harbor Patrol Crew III,31096,31096,9500,670,0,670
+Waterfront,Harbor Patrol Crew III,31096,31096,4465,0,0,51
+Waterfront,Harbor Patrol Crew V,34029,34029,16728,0,0,212
+Waterfront,Harbor Patrol Crew Vi,35506,35506,5686,0,0,74
+Waterfront,Harbor Patrol Crew Vi,35506,35506,4339,0,0,48
+Waterfront,Harbor Patrol Officer,84947,103254,109305,21856,13077,34933
+Waterfront,Harbor Patrol Officer,84947,103254,102294,20762,13105,33867
+Waterfront,Harbor Patrol Officer,84947,103254,122843,24578,14941,39519
+Waterfront,Harbor Patrol Officer,84947,103254,121830,24739,14941,39680
+Waterfront,Harbor Patrol Officer,84947,103254,129711,24860,14941,39801
+Waterfront,Harbor Patrol Officer,84947,103254,122495,24453,14912,39365
+Waterfront,Harbor Patrol Officer,84947,103254,126146,23880,0,23880
+Waterfront,Harbor Patrol Officer,84947,103254,124290,23826,14539,38365
+Waterfront,Harbor Patrol Officer-Entry,76246,92677,2276,0,0,30
+Waterfront,Harbor Patrol Supervisor,103628,125961,119258,24895,116,25011
+Waterfront,Heavy Equipment Technician,65160,79202,81729,6203,12896,19099
+Waterfront,Maintenance Worker I,42011,51064,18644,0,0,237
+Waterfront,Office Specialist II,42858,52093,23466,1004,1941,2945
+Waterfront,Parking Coordinator,62611,76104,79135,5941,15036,20977
+Waterfront,Senior Property Management Spec,77975,94780,98528,7398,15036,22434
+Waterfront,Senior Waterfront Maintenance Worker,54723,66516,72309,5495,11946,17441
+Waterfront,Senior Waterfront Maintenance Worker,54723,66516,52416,6070,13501,19571
+Waterfront,Waterfront Business Manager,109475,133067,158963,10462,172,10634
+Waterfront,Waterfront Dir Harbormaster,152150,184940,185608,18278,15934,34212
+Waterfront,Waterfront Facilities Aide III,32032,32032,14733,0,0,185
+Waterfront,Waterfront Facilities Aide III,32032,32032,15026,0,0,190
+Waterfront,Waterfront Facilities Aide III,32032,32032,7069,0,0,0
+Waterfront,Waterfront Facilities Aide III,32032,32032,16370,0,0,208
+Waterfront,Waterfront Facilities Aide III,32032,32032,14187,0,0,183
+Waterfront,Waterfront Facilities Aide III,32032,32032,6225,732,0,732
+Waterfront,Waterfront Facilities Aide III,32032,32032,862,0,0,11
+Waterfront,Waterfront Facilities Aide IV,33093,33093,14672,0,0,186
+Waterfront,Waterfront Facilities Aide IV,33093,33093,12501,0,0,159
+Waterfront,Waterfront Facilities Aide IV,33093,33093,15507,0,0,196
+Waterfront,Waterfront Facilities Aide IV,33093,33093,11547,0,0,144
+Waterfront,Waterfront Facilities Aide IV,33093,33093,20936,0,0,267
+Waterfront,Waterfront Facilities Aide IV,33093,33093,6193,0,0,78
+Waterfront,Waterfront Facilities Aide IV,33093,33093,4670,0,0,61
+Waterfront,Waterfront Facilities Manager,112672,136954,112995,6536,12570,19106
+Waterfront,Waterfront Facilities Manager,112672,136954,2203,168,0,168
+Waterfront,Waterfront Maintenance Crw Leader,57521,69917,73186,5480,10073,15553
+Waterfront,Waterfront Maintenance Crw Leader,57521,69917,72279,5478,12523,18001
+Waterfront,Waterfront Maintenance Supt,91377,111070,123174,8097,87,8184
+Waterfront,Waterfront Maintenance Supt,91377,111070,103661,7192,11933,19125
+Waterfront,Waterfront Maintenance Worker I,45049,54757,57635,6326,1161,7487
+Waterfront,Waterfront Maintenance Worker II,49527,60200,62729,7292,12189,19481
+Waterfront,Waterfront Maintenance Worker II,49527,60200,57935,6610,13437,20047
+Waterfront,Waterfront Maintenance Worker II,49527,60200,57073,6561,10073,16634
+Waterfront,Waterfront Maintenance Worker II,49527,60200,43559,3128,8536,11664
+Waterfront,Waterfront Maintenance Worker II,49527,60200,62051,4704,14636,19340
+Waterfront,Waterfront Maintenance Worker II,49527,60200,53183,6186,12523,18709
+Waterfront,Waterfront Maintenance Worker II,49527,60200,52401,6367,13077,19444
+Waterfront,Waterfront Maintenance Worker II,49527,60200,55997,6005,6795,12800
+Waterfront,Waterfront Maintenance Worker II,49527,60200,52318,5573,0,5573
+Waterfront,Waterfront Parking Coordinator Aide II,37814,37814,13446,0,0,159
+Waterfront,Waterfront Parking Coordinator Aide II,37814,37814,15131,0,0,192
+Waterfront,Waterfront Parking Coordinator Aide II,37814,37814,19100,0,0,243
+Waterfront,Waterfront Parking Coordinator Aide II,37814,37814,16956,0,0,211
+Waterfront,Waterfront Parking Lead I,32240,32240,12930,0,0,164
+Waterfront,Waterfront Parking Lead I,32240,32240,9910,0,0,127
+Waterfront,Waterfront Parking Lead I,32240,32240,4797,0,0,62
+Waterfront,Waterfront Parking Lead I,32240,32240,7410,0,0,94
+Waterfront,Waterfront Parking Lead I,32240,32240,5038,0,0,61
+Waterfront,Waterfront Parking Lead I,32240,32240,5631,0,0,73
+Waterfront,Waterfront Parking Lead I,32240,32240,3298,0,0,43
+Waterfront,Waterfront Parking Lot Opr I,29120,29120,12013,0,0,141
+Waterfront,Waterfront Parking Lot Opr I,29120,29120,11162,0,0,141
+Waterfront,Waterfront Parking Lot Opr I,29120,29120,8389,0,0,108
+Waterfront,Waterfront Parking Lot Opr I,29120,29120,8960,0,0,111
+Waterfront,Waterfront Parking Lot Opr I,29120,29120,6601,0,0,86
+Waterfront,Waterfront Parking Lot Opr I,29120,29120,6224,0,0,80
+Waterfront,Waterfront Parking Lot Opr I,29120,29120,3076,0,0,40
+Waterfront,Waterfront Parking Lot Opr I,29120,29120,4341,0,0,56
+Waterfront,Waterfront Parking Lot Opr I,29120,29120,501,0,0,7
+Waterfront,Waterfront Parking Lot Opr III,31200,31200,14264,0,0,171
+Waterfront,Waterfront Parking Lot Opr III,31200,31200,10293,0,0,123
+Waterfront,Waterfront Parking Lot Opr III,31200,31200,12804,0,0,165
+Waterfront,Waterfront Parking Lot Opr III,31200,31200,11106,0,0,143
+Waterfront,Waterfront Parking Lot Opr III,31200,31200,4527,0,0,59
+Waterfront,Waterfront Parking Monitor I,31200,31200,3141,0,0,38
+Waterfront,Waterfront Parking Monitor I,31200,31200,2731,0,0,36
+Waterfront,Waterfront Parking Monitor I,31200,31200,3984,0,0,48
+Waterfront,Waterfront Parking Monitor I,31200,31200,8735,0,0,109
+Waterfront,Waterfront Parking Monitor I,31200,31200,3892,0,0,51
+Waterfront,Waterfront Parking Monitor II,32240,32240,13125,0,0,156
+Waterfront,Waterfront Parking Monitor II,32240,32240,15752,0,0,191
+Waterfront,Waterfront Parking Supervisor,83431,101412,115078,7958,12651,20609
+Waterfront,Waterfront Vessel Technician,49527,60200,62063,7233,12156,19389
+Waterfront,Waterfront Worker,29120,29120,4788,0,0,59
+Waterfront,Waterfront Worker,29120,29120,4903,0,0,52
+Waterfront,Waterfront Worker,29120,29120,2806,0,0,34
+Waterfront,Waterfront Worker,29120,29120,2148,0,0,28
+Waterfront,Waterfront Worker,29120,29120,2087,0,0,27
+Waterfront,Waterfront Worker,29120,29120,4134,0,0,50
+Waterfront,Waterfront Worker,29120,29120,1015,0,0,13
+Waterfront,Waterfront Worker,29120,29120,2023,0,0,26
+Waterfront,Waterfront Worker,29120,29120,3234,0,0,42
+Waterfront,Waterfront Worker,29120,29120,33,0,0,0
+Waterfront,Waterfront Worker Ix,29203,29203,3693,0,0,45
+Waterfront,Waterfront Worker Ix,29203,29203,3513,0,0,43
+Waterfront,Waterfront Worker Ix,29203,29203,1334,0,0,17
+Waterfront,Waterfront Worker Vi,27622,27622,4672,0,0,56
+Waterfront,Waterfront Worker Vi,27622,27622,738,0,0,6
+Waterfront,Waterfront Worker Vii,28142,28142,559,0,0,7
+Waterfront,Waterfront Worker Viii,28683,28683,139,0,0,2
+Waterfront,Waterfront Worker Viii,28683,28683,9597,0,0,117
+Waterfront,Waterfront Worker Viii,28683,28683,2895,0,0,38
