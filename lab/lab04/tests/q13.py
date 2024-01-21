@@ -1,12 +1,12 @@
 test = {
-  'name': 'q14',
+  'name': 'q13',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> num_non_vowels("Go bears!") == 6
+          >>> num_non_vowels("Go Vaqueros!") == 7
           True
           """,
           'hidden': False,
