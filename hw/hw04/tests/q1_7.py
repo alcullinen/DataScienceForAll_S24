@@ -1,13 +1,13 @@
 test = {
-  'name': 'q1_6',
+  'name': 'q1_7',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> # Number of columns of the resulting table should be 3;
-          >>> menu_average.num_columns == 3
+          >>> # Your answer should be between 0 and 100.;
+          >>> 0 <= burritos_less_than_6 <= 100
           True
           """,
           'hidden': False,
