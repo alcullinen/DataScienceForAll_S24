@@ -16,7 +16,7 @@ test = {
         {
           'code': r"""
           >>> len(interesting_numbers)
-          5
+          4
           """,
           'hidden': False,
           'locked': False
@@ -24,7 +24,7 @@ test = {
         {
           'code': r"""
           >>> import numpy as np;
-          >>> all(interesting_numbers == np.array([0, 1, -1, math.pi, math.e]))
+          >>> all(interesting_numbers == np.array([0, 1, -1, math.pi]))
           True
           """,
           'hidden': False,
