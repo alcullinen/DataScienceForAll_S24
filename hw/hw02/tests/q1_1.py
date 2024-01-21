@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> np.allclose(weird_numbers, np.array([-2.,  0.93203909,  3.,  1.79174913]), rtol=1e-03, atol=1e-03)
+          >>> np.allclose(weird_numbers, np.array([   -2,    12,     3, 15625]), rtol=1e-03, atol=1e-03)
           True
           """,
           'hidden': False,
