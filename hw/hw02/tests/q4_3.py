@@ -1,21 +1,21 @@
 test = {
-  'name': 'q5_3',
+  'name': 'q4_3',
   'points': 1,
   'suites': [
     {
       'cases': [
         {
           'code': r"""
-          >>> difference_from_expected.size
-          272
+          >>> len(first_nine_waiting_times)
+          9
           """,
           'hidden': False,
           'locked': False
         },
         {
           'code': r"""
-          >>> difference_from_expected.item(271) == abs(60 * 272 - sum(waiting_times))
-          True
+          >>> total_waiting_time_until_tenth
+          633
           """,
           'hidden': False,
           'locked': False
