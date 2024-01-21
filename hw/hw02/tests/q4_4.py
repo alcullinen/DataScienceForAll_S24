@@ -1,5 +1,5 @@
 test = {
-  'name': 'q5_4',
+  'name': 'q4_4',
   'points': 1,
   'suites': [
     {
