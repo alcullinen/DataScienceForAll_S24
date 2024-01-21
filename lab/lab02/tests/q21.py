@@ -6,8 +6,8 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> round(near_twenty, 8)
-          19.99909998
+          >>> round(circum_of_circle, 3)
+          31.416
           """,
           'hidden': False,
           'locked': False
