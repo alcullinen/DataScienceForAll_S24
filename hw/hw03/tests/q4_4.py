@@ -6,7 +6,7 @@ test = {
       'cases': [
         {
           'code': r"""
-          >>> 1 <= manila_median_bin <= 4
+          >>> 1 <= boston_median_bin <= 4
           True
           """,
           'hidden': False,
